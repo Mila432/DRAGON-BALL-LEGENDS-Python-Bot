@@ -1,0 +1,894 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2288834692622308501
+    },
+    "m_Name": "CHARACTER-STATNAME",
+    "info": [
+        {
+            "id": 16,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 17,
+            "text": "Fused with Nail"
+        },
+        {
+            "id": 28,
+            "text": "1st Form"
+        },
+        {
+            "id": 29,
+            "text": "1st Form"
+        },
+        {
+            "id": 30,
+            "text": "2nd Form"
+        },
+        {
+            "id": 31,
+            "text": "3rd Form"
+        },
+        {
+            "id": 32,
+            "text": "Final Form"
+        },
+        {
+            "id": 37,
+            "text": "Final Form"
+        },
+        {
+            "id": 40,
+            "text": "Fused with Nail"
+        },
+        {
+            "id": 44,
+            "text": "Final Form"
+        },
+        {
+            "id": 45,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 46,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 47,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 60,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 64,
+            "text": "1st Form"
+        },
+        {
+            "id": 66,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 73,
+            "text": "1st Form"
+        },
+        {
+            "id": 75,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 77,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 80,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 81,
+            "text": "1st Form"
+        },
+        {
+            "id": 82,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 86,
+            "text": "1st Form"
+        },
+        {
+            "id": 94,
+            "text": "Fused with Kami"
+        },
+        {
+            "id": 96,
+            "text": "2nd Form"
+        },
+        {
+            "id": 101,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 104,
+            "text": "Perfect Form"
+        },
+        {
+            "id": 108,
+            "text": "Perfect Form"
+        },
+        {
+            "id": 111,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 112,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 114,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 115,
+            "text": "World Champion"
+        },
+        {
+            "id": 121,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 123,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 124,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 128,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 139,
+            "text": "2nd Form"
+        },
+        {
+            "id": 141,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 142,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 144,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 145,
+            "text": "King of the Demon Realm"
+        },
+        {
+            "id": 146,
+            "text": "King of the Demon Realm"
+        },
+        {
+            "id": 150,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 151,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 154,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 156,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 157,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 164,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 165,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 166,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 168,
+            "text": "Final Form"
+        },
+        {
+            "id": 172,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 185,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 187,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 188,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 189,
+            "text": "Super Namekian"
+        },
+        {
+            "id": 191,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 197,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 199,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 201,
+            "text": "Taitans"
+        },
+        {
+            "id": 202,
+            "text": "Super Namekian"
+        },
+        {
+            "id": 204,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 205,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 206,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 207,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 212,
+            "text": "World Champion"
+        },
+        {
+            "id": 213,
+            "text": "Fused with Kami"
+        },
+        {
+            "id": 215,
+            "text": "Ultimate Gohan Absorbed"
+        },
+        {
+            "id": 216,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 217,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 219,
+            "text": "Final Form"
+        },
+        {
+            "id": 223,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 236,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 238,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 245,
+            "text": "Bunny Girl"
+        },
+        {
+            "id": 246,
+            "text": "Goku"
+        },
+        {
+            "id": 251,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 254,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 260,
+            "text": "Ultimate Gohan Absorbed"
+        },
+        {
+            "id": 262,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 264,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 265,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 268,
+            "text": "Final Form"
+        },
+        {
+            "id": 270,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 271,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 276,
+            "text": "Hero"
+        },
+        {
+            "id": 278,
+            "text": "Kakarot"
+        },
+        {
+            "id": 282,
+            "text": "2nd Form"
+        },
+        {
+            "id": 285,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 286,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 287,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 293,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 294,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 295,
+            "text": "1st Form"
+        },
+        {
+            "id": 304,
+            "text": "1st Form"
+        },
+        {
+            "id": 310,
+            "text": "Super Kaioken"
+        },
+        {
+            "id": 313,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 314,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 315,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 318,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 319,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 322,
+            "text": "Super Full Power Saiyan 4"
+        },
+        {
+            "id": 327,
+            "text": "Gotenks Absorbed"
+        },
+        {
+            "id": 328,
+            "text": "Wasteland Bandit"
+        },
+        {
+            "id": 339,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 345,
+            "text": "Perfect Form"
+        },
+        {
+            "id": 347,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 363,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 366,
+            "text": "Ultra Instinct -Sign-"
+        },
+        {
+            "id": 367,
+            "text": "Final Form"
+        },
+        {
+            "id": 370,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 371,
+            "text": "Final Form"
+        },
+        {
+            "id": 375,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 380,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 383,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 385,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 386,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 388,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 392,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 395,
+            "text": "Half-Corrupted"
+        },
+        {
+            "id": 396,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 397,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 398,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 399,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 402,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 403,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 404,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 405,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 406,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 409,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 412,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 414,
+            "text": "Final Form"
+        },
+        {
+            "id": 424,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 426,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 427,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 428,
+            "text": "Super Saiyan God SS Evolved"
+        },
+        {
+            "id": 430,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 431,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 442,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 444,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 445,
+            "text": "Fused with Nail"
+        },
+        {
+            "id": 447,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 448,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 450,
+            "text": "Final Form"
+        },
+        {
+            "id": 451,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 455,
+            "text": "1st Form"
+        },
+        {
+            "id": 459,
+            "text": "Kaioken"
+        },
+        {
+            "id": 460,
+            "text": "Final Form"
+        },
+        {
+            "id": 463,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 466,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 467,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 468,
+            "text": "Super Saiyan God SS Kaioken"
+        },
+        {
+            "id": 471,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 474,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 477,
+            "text": "Ultra Instinct"
+        },
+        {
+            "id": 478,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 482,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 483,
+            "text": "Hero"
+        },
+        {
+            "id": 485,
+            "text": "Final Form"
+        },
+        {
+            "id": 488,
+            "text": "Ultimate Gohan Absorbed"
+        },
+        {
+            "id": 490,
+            "text": "Perfect Form"
+        },
+        {
+            "id": 491,
+            "text": "Beast"
+        },
+        {
+            "id": 492,
+            "text": "Power Awakening"
+        },
+        {
+            "id": 494,
+            "text": "Final Form"
+        },
+        {
+            "id": 495,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 497,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 501,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 508,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 514,
+            "text": "Super Saiyan 2 & Super Saiyan God SS"
+        },
+        {
+            "id": 517,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 518,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 519,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 522,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 526,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 527,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 530,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 531,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 532,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 533,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 534,
+            "text": "2nd Form"
+        },
+        {
+            "id": 536,
+            "text": "Super Saiyan 3 & Super Saiyan 2"
+        },
+        {
+            "id": 543,
+            "text": "God of Destruction"
+        },
+        {
+            "id": 546,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 547,
+            "text": "Final Form"
+        },
+        {
+            "id": 551,
+            "text": "Power Awakening"
+        },
+        {
+            "id": 9003,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 9004,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 9005,
+            "text": "Legendary Super Saiyan"
+        },
+        {
+            "id": 9037,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 9038,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 9039,
+            "text": " "
+        },
+        {
+            "id": 9046,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 100125,
+            "text": "Kaioken"
+        },
+        {
+            "id": 100169,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100192,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100220,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100226,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100236,
+            "text": "Super Saiyan God SS Kaioken"
+        },
+        {
+            "id": 100238,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 100257,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100258,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100266,
+            "text": "Final Form"
+        },
+        {
+            "id": 100287,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 100313,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 100343,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100344,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100350,
+            "text": "Super Saiyan Rosé"
+        },
+        {
+            "id": 100409,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 100448,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 100478,
+            "text": "Super Saiyan God SS"
+        },
+        {
+            "id": 100501,
+            "text": "Super Saiyan 4"
+        },
+        {
+            "id": 100514,
+            "text": "Super Saiyan 2 & Super Saiyan God SS"
+        },
+        {
+            "id": 100527,
+            "text": "Ultra Instinct -Sign-"
+        },
+        {
+            "id": 100534,
+            "text": "Perfect Form"
+        },
+        {
+            "id": 100536,
+            "text": ""
+        },
+        {
+            "id": 900001,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 900002,
+            "text": "Super Saiyan 2"
+        },
+        {
+            "id": 900003,
+            "text": "Super Saiyan 3"
+        },
+        {
+            "id": 900004,
+            "text": "Super Saiyan God"
+        },
+        {
+            "id": 900005,
+            "text": "Super Saiyan God SS"
+        }
+    ]
+}

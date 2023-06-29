@@ -1,0 +1,2274 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2288834692622308501
+    },
+    "m_Name": "CHARACTER-NAME",
+    "info": [
+        {
+            "id": 0,
+            "text": "Goku"
+        },
+        {
+            "id": 1,
+            "text": "Goku"
+        },
+        {
+            "id": 2,
+            "text": "Gohan (Kid)"
+        },
+        {
+            "id": 3,
+            "text": "Gohan (Kid)"
+        },
+        {
+            "id": 4,
+            "text": "Piccolo"
+        },
+        {
+            "id": 5,
+            "text": "Krillin"
+        },
+        {
+            "id": 6,
+            "text": "Krillin"
+        },
+        {
+            "id": 7,
+            "text": "Yamcha"
+        },
+        {
+            "id": 8,
+            "text": "Tien"
+        },
+        {
+            "id": 9,
+            "text": "Chiaotzu"
+        },
+        {
+            "id": 10,
+            "text": "Raditz"
+        },
+        {
+            "id": 11,
+            "text": "Saibaman"
+        },
+        {
+            "id": 12,
+            "text": "Nappa"
+        },
+        {
+            "id": 13,
+            "text": "Nappa"
+        },
+        {
+            "id": 14,
+            "text": "Vegeta"
+        },
+        {
+            "id": 15,
+            "text": "Goku"
+        },
+        {
+            "id": 16,
+            "text": "Goku"
+        },
+        {
+            "id": 17,
+            "text": "Piccolo"
+        },
+        {
+            "id": 18,
+            "text": "Vegeta"
+        },
+        {
+            "id": 19,
+            "text": "Vegeta"
+        },
+        {
+            "id": 20,
+            "text": "Zarbon"
+        },
+        {
+            "id": 21,
+            "text": "Dodoria"
+        },
+        {
+            "id": 22,
+            "text": "Guldo"
+        },
+        {
+            "id": 23,
+            "text": "Burter"
+        },
+        {
+            "id": 24,
+            "text": "Recoome"
+        },
+        {
+            "id": 25,
+            "text": "Jeice"
+        },
+        {
+            "id": 26,
+            "text": "Captain Ginyu"
+        },
+        {
+            "id": 27,
+            "text": "Captain Ginyu"
+        },
+        {
+            "id": 28,
+            "text": "Frieza"
+        },
+        {
+            "id": 29,
+            "text": "Frieza"
+        },
+        {
+            "id": 30,
+            "text": "Frieza"
+        },
+        {
+            "id": 31,
+            "text": "Frieza"
+        },
+        {
+            "id": 32,
+            "text": "Frieza"
+        },
+        {
+            "id": 33,
+            "text": "Mercenary Tao"
+        },
+        {
+            "id": 34,
+            "text": "Pikkon"
+        },
+        {
+            "id": 35,
+            "text": "Pikkon"
+        },
+        {
+            "id": 36,
+            "text": "Jaco"
+        },
+        {
+            "id": 37,
+            "text": "Frost"
+        },
+        {
+            "id": 38,
+            "text": "Pan"
+        },
+        {
+            "id": 39,
+            "text": "Pan"
+        },
+        {
+            "id": 40,
+            "text": "Piccolo"
+        },
+        {
+            "id": 41,
+            "text": "Yamcha"
+        },
+        {
+            "id": 42,
+            "text": "Tien"
+        },
+        {
+            "id": 43,
+            "text": "Chiaotzu"
+        },
+        {
+            "id": 44,
+            "text": "Frost"
+        },
+        {
+            "id": 45,
+            "text": "Goku"
+        },
+        {
+            "id": 46,
+            "text": "Vegeta"
+        },
+        {
+            "id": 47,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 48,
+            "text": "Android #20"
+        },
+        {
+            "id": 49,
+            "text": "Android #19"
+        },
+        {
+            "id": 50,
+            "text": "Turles"
+        },
+        {
+            "id": 51,
+            "text": "Mai"
+        },
+        {
+            "id": 52,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 53,
+            "text": "Vegeta"
+        },
+        {
+            "id": 54,
+            "text": "Turles"
+        },
+        {
+            "id": 55,
+            "text": "Android #20"
+        },
+        {
+            "id": 56,
+            "text": "Android #19"
+        },
+        {
+            "id": 57,
+            "text": "Yamcha"
+        },
+        {
+            "id": 58,
+            "text": "Saibaman"
+        },
+        {
+            "id": 59,
+            "text": "Jaco"
+        },
+        {
+            "id": 60,
+            "text": "Goku"
+        },
+        {
+            "id": 61,
+            "text": "Krillin"
+        },
+        {
+            "id": 62,
+            "text": "Android #17"
+        },
+        {
+            "id": 63,
+            "text": "Android #18"
+        },
+        {
+            "id": 64,
+            "text": "Cell"
+        },
+        {
+            "id": 65,
+            "text": "Master Roshi"
+        },
+        {
+            "id": 66,
+            "text": "Cabba"
+        },
+        {
+            "id": 68,
+            "text": "Android #18"
+        },
+        {
+            "id": 69,
+            "text": "Cabba"
+        },
+        {
+            "id": 70,
+            "text": "Master Roshi"
+        },
+        {
+            "id": 71,
+            "text": "Android #17"
+        },
+        {
+            "id": 72,
+            "text": "Goku"
+        },
+        {
+            "id": 73,
+            "text": "Cell"
+        },
+        {
+            "id": 75,
+            "text": "Goku"
+        },
+        {
+            "id": 76,
+            "text": "Goku (Youth)"
+        },
+        {
+            "id": 77,
+            "text": "Vegeta"
+        },
+        {
+            "id": 78,
+            "text": "Bardock"
+        },
+        {
+            "id": 79,
+            "text": "Demon King Piccolo"
+        },
+        {
+            "id": 80,
+            "text": "Broly"
+        },
+        {
+            "id": 81,
+            "text": "Frieza"
+        },
+        {
+            "id": 82,
+            "text": "Goku"
+        },
+        {
+            "id": 83,
+            "text": "Trunks"
+        },
+        {
+            "id": 84,
+            "text": "Demon King Piccolo"
+        },
+        {
+            "id": 85,
+            "text": "Pan"
+        },
+        {
+            "id": 86,
+            "text": "Frieza"
+        },
+        {
+            "id": 87,
+            "text": "Bardock"
+        },
+        {
+            "id": 90,
+            "text": "Raditz"
+        },
+        {
+            "id": 91,
+            "text": "Zarbon"
+        },
+        {
+            "id": 92,
+            "text": "Dodoria"
+        },
+        {
+            "id": 93,
+            "text": "Super Vegeta"
+        },
+        {
+            "id": 94,
+            "text": "Piccolo"
+        },
+        {
+            "id": 95,
+            "text": "Android #16"
+        },
+        {
+            "id": 96,
+            "text": "Cell"
+        },
+        {
+            "id": 97,
+            "text": "Cooler"
+        },
+        {
+            "id": 99,
+            "text": "Thouser"
+        },
+        {
+            "id": 100,
+            "text": "Cooler"
+        },
+        {
+            "id": 101,
+            "text": "Goku"
+        },
+        {
+            "id": 102,
+            "text": "Trunks (Kid)"
+        },
+        {
+            "id": 103,
+            "text": "Goten (Kid)"
+        },
+        {
+            "id": 104,
+            "text": "Cell"
+        },
+        {
+            "id": 105,
+            "text": "Thouser"
+        },
+        {
+            "id": 106,
+            "text": "Android #16"
+        },
+        {
+            "id": 107,
+            "text": "Android #18"
+        },
+        {
+            "id": 108,
+            "text": "Cell"
+        },
+        {
+            "id": 109,
+            "text": "Super Trunks"
+        },
+        {
+            "id": 110,
+            "text": "Cell Jr."
+        },
+        {
+            "id": 111,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 112,
+            "text": "Goku"
+        },
+        {
+            "id": 113,
+            "text": "Majin Buu: Good"
+        },
+        {
+            "id": 114,
+            "text": "Goku"
+        },
+        {
+            "id": 115,
+            "text": "Hercule"
+        },
+        {
+            "id": 117,
+            "text": "Majin Buu: Good"
+        },
+        {
+            "id": 118,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 119,
+            "text": "Cell Jr."
+        },
+        {
+            "id": 120,
+            "text": "Turles"
+        },
+        {
+            "id": 121,
+            "text": "Goku"
+        },
+        {
+            "id": 122,
+            "text": "Krillin"
+        },
+        {
+            "id": 123,
+            "text": "Gohan"
+        },
+        {
+            "id": 124,
+            "text": "Trunks (Adult)"
+        },
+        {
+            "id": 125,
+            "text": "Goku"
+        },
+        {
+            "id": 126,
+            "text": "Goku Black"
+        },
+        {
+            "id": 127,
+            "text": "Zamasu"
+        },
+        {
+            "id": 128,
+            "text": "Kale (Berserk)"
+        },
+        {
+            "id": 130,
+            "text": "Mai"
+        },
+        {
+            "id": 131,
+            "text": "Goku Black"
+        },
+        {
+            "id": 133,
+            "text": "Vegeta"
+        },
+        {
+            "id": 134,
+            "text": "Zamasu"
+        },
+        {
+            "id": 136,
+            "text": "Android #17"
+        },
+        {
+            "id": 137,
+            "text": "Android #18"
+        },
+        {
+            "id": 138,
+            "text": "Vegeta"
+        },
+        {
+            "id": 139,
+            "text": "Cell"
+        },
+        {
+            "id": 140,
+            "text": "Vegito"
+        },
+        {
+            "id": 141,
+            "text": "Trunks (Kid)"
+        },
+        {
+            "id": 142,
+            "text": "Goten (Kid)"
+        },
+        {
+            "id": 143,
+            "text": "Majin Vegeta"
+        },
+        {
+            "id": 144,
+            "text": "Gotenks"
+        },
+        {
+            "id": 145,
+            "text": "Dabura"
+        },
+        {
+            "id": 146,
+            "text": "Dabura"
+        },
+        {
+            "id": 147,
+            "text": "Broly: Fury"
+        },
+        {
+            "id": 148,
+            "text": "Super Gogeta"
+        },
+        {
+            "id": 149,
+            "text": "Super Janemba"
+        },
+        {
+            "id": 150,
+            "text": "Goku"
+        },
+        {
+            "id": 151,
+            "text": "Bardock"
+        },
+        {
+            "id": 152,
+            "text": "Chilled"
+        },
+        {
+            "id": 154,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 155,
+            "text": "Pan: Honey"
+        },
+        {
+            "id": 156,
+            "text": "Vegeta"
+        },
+        {
+            "id": 157,
+            "text": "Gohan (Teen)"
+        },
+        {
+            "id": 158,
+            "text": "Fasha"
+        },
+        {
+            "id": 159,
+            "text": "Tora"
+        },
+        {
+            "id": 160,
+            "text": "Goku"
+        },
+        {
+            "id": 161,
+            "text": "Cabba"
+        },
+        {
+            "id": 162,
+            "text": "Nappa (Young)"
+        },
+        {
+            "id": 163,
+            "text": "Nappa"
+        },
+        {
+            "id": 164,
+            "text": "Broly"
+        },
+        {
+            "id": 165,
+            "text": "Goku"
+        },
+        {
+            "id": 166,
+            "text": "Beerus"
+        },
+        {
+            "id": 167,
+            "text": "Boujack"
+        },
+        {
+            "id": 168,
+            "text": "Cooler"
+        },
+        {
+            "id": 169,
+            "text": "Trunks (Youth)"
+        },
+        {
+            "id": 170,
+            "text": "Whis"
+        },
+        {
+            "id": 171,
+            "text": "Gohan"
+        },
+        {
+            "id": 172,
+            "text": "Caulifla"
+        },
+        {
+            "id": 173,
+            "text": "Ribrianne"
+        },
+        {
+            "id": 174,
+            "text": "Chi-Chi"
+        },
+        {
+            "id": 175,
+            "text": "Bulma (Youth)"
+        },
+        {
+            "id": 176,
+            "text": "Videl"
+        },
+        {
+            "id": 177,
+            "text": "Launch"
+        },
+        {
+            "id": 178,
+            "text": "Caulifla"
+        },
+        {
+            "id": 179,
+            "text": "Kakunsa"
+        },
+        {
+            "id": 180,
+            "text": "Rozie"
+        },
+        {
+            "id": 181,
+            "text": "Chi-Chi"
+        },
+        {
+            "id": 182,
+            "text": "Videl"
+        },
+        {
+            "id": 183,
+            "text": "Great Saiyaman 1"
+        },
+        {
+            "id": 184,
+            "text": "Great Saiyaman 2"
+        },
+        {
+            "id": 185,
+            "text": "Vegeta"
+        },
+        {
+            "id": 186,
+            "text": "Ultimate Gohan"
+        },
+        {
+            "id": 187,
+            "text": "Goku"
+        },
+        {
+            "id": 188,
+            "text": "Vegeta"
+        },
+        {
+            "id": 189,
+            "text": "Lord Slug"
+        },
+        {
+            "id": 190,
+            "text": "Perfect Cell"
+        },
+        {
+            "id": 191,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 192,
+            "text": "Gogeta"
+        },
+        {
+            "id": 193,
+            "text": "Gotenks"
+        },
+        {
+            "id": 194,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 195,
+            "text": "Tien"
+        },
+        {
+            "id": 196,
+            "text": "Majin Buu: Pure Evil"
+        },
+        {
+            "id": 197,
+            "text": "Vegeta"
+        },
+        {
+            "id": 198,
+            "text": "Hyper Meta-Rilldo"
+        },
+        {
+            "id": 199,
+            "text": "Gotenks"
+        },
+        {
+            "id": 200,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 201,
+            "text": "Yamcha"
+        },
+        {
+            "id": 202,
+            "text": "Lord Slug"
+        },
+        {
+            "id": 203,
+            "text": "Bulma (Youth)"
+        },
+        {
+            "id": 204,
+            "text": "Goten (Kid)"
+        },
+        {
+            "id": 205,
+            "text": "Gohan (Teen)"
+        },
+        {
+            "id": 206,
+            "text": "Goku"
+        },
+        {
+            "id": 207,
+            "text": "Broly"
+        },
+        {
+            "id": 208,
+            "text": "Metal Cooler"
+        },
+        {
+            "id": 209,
+            "text": "Zangya"
+        },
+        {
+            "id": 210,
+            "text": "Videl"
+        },
+        {
+            "id": 212,
+            "text": "Hercule"
+        },
+        {
+            "id": 213,
+            "text": "Piccolo"
+        },
+        {
+            "id": 214,
+            "text": "Boujack"
+        },
+        {
+            "id": 215,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 216,
+            "text": "Goku"
+        },
+        {
+            "id": 217,
+            "text": "Vegeta"
+        },
+        {
+            "id": 218,
+            "text": "Golden Frieza"
+        },
+        {
+            "id": 219,
+            "text": "Frieza: Full Power"
+        },
+        {
+            "id": 220,
+            "text": "Goku"
+        },
+        {
+            "id": 221,
+            "text": "Super Janemba"
+        },
+        {
+            "id": 222,
+            "text": "Chilled"
+        },
+        {
+            "id": 223,
+            "text": "Beerus"
+        },
+        {
+            "id": 224,
+            "text": "Super Vegito"
+        },
+        {
+            "id": 225,
+            "text": "Buu: Kid"
+        },
+        {
+            "id": 226,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 227,
+            "text": "Android #13"
+        },
+        {
+            "id": 228,
+            "text": "Android #14"
+        },
+        {
+            "id": 229,
+            "text": "Android #15"
+        },
+        {
+            "id": 230,
+            "text": "Vados"
+        },
+        {
+            "id": 231,
+            "text": "Guldo"
+        },
+        {
+            "id": 232,
+            "text": "Burter"
+        },
+        {
+            "id": 233,
+            "text": "Recoome"
+        },
+        {
+            "id": 234,
+            "text": "Jeice"
+        },
+        {
+            "id": 235,
+            "text": "Captain Ginyu"
+        },
+        {
+            "id": 236,
+            "text": "Goku"
+        },
+        {
+            "id": 237,
+            "text": "Hit"
+        },
+        {
+            "id": 238,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 240,
+            "text": "Goku"
+        },
+        {
+            "id": 241,
+            "text": "Super #17"
+        },
+        {
+            "id": 242,
+            "text": "Fusion Android #13"
+        },
+        {
+            "id": 243,
+            "text": "Goku"
+        },
+        {
+            "id": 244,
+            "text": "Android #18"
+        },
+        {
+            "id": 245,
+            "text": "Bulma (Youth)"
+        },
+        {
+            "id": 246,
+            "text": "Captain Ginyu"
+        },
+        {
+            "id": 247,
+            "text": "Gohan (Kid)"
+        },
+        {
+            "id": 248,
+            "text": "Krillin"
+        },
+        {
+            "id": 249,
+            "text": "Nail"
+        },
+        {
+            "id": 250,
+            "text": "Nail"
+        },
+        {
+            "id": 251,
+            "text": "Goku"
+        },
+        {
+            "id": 252,
+            "text": "Goku"
+        },
+        {
+            "id": 253,
+            "text": "Piccolo"
+        },
+        {
+            "id": 254,
+            "text": "Champa"
+        },
+        {
+            "id": 255,
+            "text": "Bardock"
+        },
+        {
+            "id": 256,
+            "text": "Full Power Boujack"
+        },
+        {
+            "id": 257,
+            "text": "Vegeta"
+        },
+        {
+            "id": 258,
+            "text": "Gohan"
+        },
+        {
+            "id": 259,
+            "text": "Raditz"
+        },
+        {
+            "id": 260,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 261,
+            "text": "Buu: Kid"
+        },
+        {
+            "id": 262,
+            "text": "Broly"
+        },
+        {
+            "id": 263,
+            "text": "Android #13"
+        },
+        {
+            "id": 264,
+            "text": "Goku Black"
+        },
+        {
+            "id": 265,
+            "text": "Vegeta"
+        },
+        {
+            "id": 266,
+            "text": "Cooler"
+        },
+        {
+            "id": 268,
+            "text": "Frieza"
+        },
+        {
+            "id": 269,
+            "text": "Shisami"
+        },
+        {
+            "id": 270,
+            "text": "Goku"
+        },
+        {
+            "id": 271,
+            "text": "Vegeta"
+        },
+        {
+            "id": 272,
+            "text": "Nuova Shenron"
+        },
+        {
+            "id": 273,
+            "text": "Syn Shenron"
+        },
+        {
+            "id": 275,
+            "text": "Eis Shenron"
+        },
+        {
+            "id": 276,
+            "text": "Tapion"
+        },
+        {
+            "id": 277,
+            "text": "Broly: Cheelai (Assist)"
+        },
+        {
+            "id": 278,
+            "text": "Goku"
+        },
+        {
+            "id": 279,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 280,
+            "text": "Goku"
+        },
+        {
+            "id": 281,
+            "text": "Trunks (Kid)"
+        },
+        {
+            "id": 282,
+            "text": "Frieza"
+        },
+        {
+            "id": 283,
+            "text": "Super Trunks"
+        },
+        {
+            "id": 284,
+            "text": "Hyper Meta-Rilldo"
+        },
+        {
+            "id": 285,
+            "text": "Gogeta"
+        },
+        {
+            "id": 286,
+            "text": "Goku"
+        },
+        {
+            "id": 287,
+            "text": "Vegeta"
+        },
+        {
+            "id": 288,
+            "text": "Super Gogeta"
+        },
+        {
+            "id": 289,
+            "text": "Super Janemba"
+        },
+        {
+            "id": 290,
+            "text": "Super Baby 2"
+        },
+        {
+            "id": 291,
+            "text": "Android #14"
+        },
+        {
+            "id": 292,
+            "text": "Android #15"
+        },
+        {
+            "id": 293,
+            "text": "Kefla"
+        },
+        {
+            "id": 294,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 295,
+            "text": "Cell"
+        },
+        {
+            "id": 296,
+            "text": "Baby Vegeta"
+        },
+        {
+            "id": 297,
+            "text": "Android #21"
+        },
+        {
+            "id": 298,
+            "text": "Android #21: Evil"
+        },
+        {
+            "id": 299,
+            "text": "Android #21"
+        },
+        {
+            "id": 300,
+            "text": "Android #21: Good"
+        },
+        {
+            "id": 301,
+            "text": "Basil"
+        },
+        {
+            "id": 302,
+            "text": "Bergamo"
+        },
+        {
+            "id": 303,
+            "text": "Lavender"
+        },
+        {
+            "id": 304,
+            "text": "Frieza"
+        },
+        {
+            "id": 305,
+            "text": "Bardock"
+        },
+        {
+            "id": 306,
+            "text": "Vegito"
+        },
+        {
+            "id": 307,
+            "text": "Shugesh"
+        },
+        {
+            "id": 308,
+            "text": "Borgos"
+        },
+        {
+            "id": 309,
+            "text": "Mercenary Tao"
+        },
+        {
+            "id": 310,
+            "text": "Goku"
+        },
+        {
+            "id": 311,
+            "text": "Pikkon"
+        },
+        {
+            "id": 312,
+            "text": "Kale"
+        },
+        {
+            "id": 313,
+            "text": "Gotenks"
+        },
+        {
+            "id": 314,
+            "text": "Goku"
+        },
+        {
+            "id": 315,
+            "text": "Vegeta"
+        },
+        {
+            "id": 316,
+            "text": "Goku (Youth)"
+        },
+        {
+            "id": 317,
+            "text": "Hit"
+        },
+        {
+            "id": 318,
+            "text": "Vegito"
+        },
+        {
+            "id": 319,
+            "text": "Trunks (Adult) (Rage)"
+        },
+        {
+            "id": 320,
+            "text": "Fusion Zamasu"
+        },
+        {
+            "id": 321,
+            "text": "Omega Shenron"
+        },
+        {
+            "id": 322,
+            "text": "Goku"
+        },
+        {
+            "id": 323,
+            "text": "Syn Shenron"
+        },
+        {
+            "id": 324,
+            "text": "Gogeta"
+        },
+        {
+            "id": 325,
+            "text": "Super Vegeta"
+        },
+        {
+            "id": 326,
+            "text": "Gohan (Adult)"
+        },
+        {
+            "id": 327,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 328,
+            "text": "Yamcha"
+        },
+        {
+            "id": 329,
+            "text": "Tien"
+        },
+        {
+            "id": 330,
+            "text": "Krillin"
+        },
+        {
+            "id": 331,
+            "text": "Yamcha"
+        },
+        {
+            "id": 332,
+            "text": "Bido"
+        },
+        {
+            "id": 333,
+            "text": "Bujin"
+        },
+        {
+            "id": 334,
+            "text": "Gokua"
+        },
+        {
+            "id": 337,
+            "text": "Hit"
+        },
+        {
+            "id": 338,
+            "text": "Turles"
+        },
+        {
+            "id": 339,
+            "text": "Goku"
+        },
+        {
+            "id": 340,
+            "text": "Jiren"
+        },
+        {
+            "id": 341,
+            "text": "Toppo"
+        },
+        {
+            "id": 342,
+            "text": "Dyspo"
+        },
+        {
+            "id": 343,
+            "text": "Goten (Kid)"
+        },
+        {
+            "id": 344,
+            "text": "Trunks (Kid)"
+        },
+        {
+            "id": 345,
+            "text": "Cell"
+        },
+        {
+            "id": 346,
+            "text": "Vegeta"
+        },
+        {
+            "id": 347,
+            "text": "Goku"
+        },
+        {
+            "id": 348,
+            "text": "Videl"
+        },
+        {
+            "id": 349,
+            "text": "Great Saiyaman 1 & 2 (Assist)"
+        },
+        {
+            "id": 350,
+            "text": "Goku Black"
+        },
+        {
+            "id": 351,
+            "text": "Ribrianne"
+        },
+        {
+            "id": 352,
+            "text": "Kakunsa"
+        },
+        {
+            "id": 353,
+            "text": "Rozie"
+        },
+        {
+            "id": 354,
+            "text": "Gohan (Kid)"
+        },
+        {
+            "id": 362,
+            "text": "Yurin"
+        },
+        {
+            "id": 363,
+            "text": "Vegeta"
+        },
+        {
+            "id": 364,
+            "text": "Metal Cooler"
+        },
+        {
+            "id": 365,
+            "text": "Full Power Boujack"
+        },
+        {
+            "id": 366,
+            "text": "Goku"
+        },
+        {
+            "id": 367,
+            "text": "Frieza"
+        },
+        {
+            "id": 370,
+            "text": "Broly: Full Power"
+        },
+        {
+            "id": 371,
+            "text": "Frieza"
+        },
+        {
+            "id": 372,
+            "text": "Broly"
+        },
+        {
+            "id": 373,
+            "text": "Vegeta"
+        },
+        {
+            "id": 374,
+            "text": "Goku"
+        },
+        {
+            "id": 375,
+            "text": "Gohan"
+        },
+        {
+            "id": 376,
+            "text": "Master Roshi"
+        },
+        {
+            "id": 377,
+            "text": "Buu: Kid"
+        },
+        {
+            "id": 378,
+            "text": "Vegeta"
+        },
+        {
+            "id": 379,
+            "text": "Bulma (Youth)"
+        },
+        {
+            "id": 380,
+            "text": "Broly"
+        },
+        {
+            "id": 381,
+            "text": "Demon King Piccolo (Aged)"
+        },
+        {
+            "id": 382,
+            "text": "Trunks (Youth)"
+        },
+        {
+            "id": 383,
+            "text": "Goku Black"
+        },
+        {
+            "id": 384,
+            "text": "Trunks: Mai (Assist)"
+        },
+        {
+            "id": 385,
+            "text": "Goku"
+        },
+        {
+            "id": 386,
+            "text": "Goku"
+        },
+        {
+            "id": 387,
+            "text": "Goku Black"
+        },
+        {
+            "id": 388,
+            "text": "Goku"
+        },
+        {
+            "id": 389,
+            "text": "Android #18"
+        },
+        {
+            "id": 390,
+            "text": "Android #17"
+        },
+        {
+            "id": 391,
+            "text": "Baby Vegeta"
+        },
+        {
+            "id": 392,
+            "text": "Gogeta"
+        },
+        {
+            "id": 393,
+            "text": "Super #17"
+        },
+        {
+            "id": 394,
+            "text": "Super Baby 2"
+        },
+        {
+            "id": 395,
+            "text": "Fusion Zamasu"
+        },
+        {
+            "id": 396,
+            "text": "Vegito"
+        },
+        {
+            "id": 397,
+            "text": "Kefla"
+        },
+        {
+            "id": 398,
+            "text": "Gotenks"
+        },
+        {
+            "id": 399,
+            "text": "Goku Black"
+        },
+        {
+            "id": 400,
+            "text": "Vegeta"
+        },
+        {
+            "id": 401,
+            "text": "Goku"
+        },
+        {
+            "id": 402,
+            "text": "Goku"
+        },
+        {
+            "id": 403,
+            "text": "Goku"
+        },
+        {
+            "id": 404,
+            "text": "Goku"
+        },
+        {
+            "id": 405,
+            "text": "Goku"
+        },
+        {
+            "id": 406,
+            "text": "Goku"
+        },
+        {
+            "id": 409,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 410,
+            "text": "Zangya"
+        },
+        {
+            "id": 411,
+            "text": "Boujack"
+        },
+        {
+            "id": 412,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 414,
+            "text": "Frieza: Full Power"
+        },
+        {
+            "id": 415,
+            "text": "Appule"
+        },
+        {
+            "id": 416,
+            "text": "Ramon"
+        },
+        {
+            "id": 417,
+            "text": "Orlen"
+        },
+        {
+            "id": 418,
+            "text": "Nabana"
+        },
+        {
+            "id": 419,
+            "text": "Roberry"
+        },
+        {
+            "id": 420,
+            "text": "Raspberry"
+        },
+        {
+            "id": 421,
+            "text": "Navel"
+        },
+        {
+            "id": 422,
+            "text": "Monrei"
+        },
+        {
+            "id": 423,
+            "text": "Guprei"
+        },
+        {
+            "id": 424,
+            "text": "Goku"
+        },
+        {
+            "id": 425,
+            "text": "Majuub"
+        },
+        {
+            "id": 426,
+            "text": "Goku"
+        },
+        {
+            "id": 427,
+            "text": "Broly"
+        },
+        {
+            "id": 428,
+            "text": "Vegeta"
+        },
+        {
+            "id": 429,
+            "text": "Jiren"
+        },
+        {
+            "id": 430,
+            "text": "Toppo"
+        },
+        {
+            "id": 431,
+            "text": "Caulifla: Kale (Assist)"
+        },
+        {
+            "id": 432,
+            "text": "Perfect Cell"
+        },
+        {
+            "id": 433,
+            "text": "Vegeta"
+        },
+        {
+            "id": 434,
+            "text": "Yajirobe"
+        },
+        {
+            "id": 435,
+            "text": "Saibaman"
+        },
+        {
+            "id": 436,
+            "text": "Kaiwareman"
+        },
+        {
+            "id": 437,
+            "text": "Kyukonman"
+        },
+        {
+            "id": 438,
+            "text": "Tennenman"
+        },
+        {
+            "id": 439,
+            "text": "Jinkouman"
+        },
+        {
+            "id": 440,
+            "text": "Copyman"
+        },
+        {
+            "id": 441,
+            "text": "Gohan (Kid): Piccolo (Assist)"
+        },
+        {
+            "id": 442,
+            "text": "Gohan (Youth)"
+        },
+        {
+            "id": 443,
+            "text": "Omega Shenron"
+        },
+        {
+            "id": 444,
+            "text": "Goku"
+        },
+        {
+            "id": 445,
+            "text": "Piccolo"
+        },
+        {
+            "id": 447,
+            "text": "Goku Black"
+        },
+        {
+            "id": 448,
+            "text": "Goku & Vegeta"
+        },
+        {
+            "id": 449,
+            "text": "Broly"
+        },
+        {
+            "id": 450,
+            "text": "Frieza"
+        },
+        {
+            "id": 451,
+            "text": "Trunks (Adult)"
+        },
+        {
+            "id": 452,
+            "text": "Zamasu: Goku Black (Assist)"
+        },
+        {
+            "id": 453,
+            "text": "Mai"
+        },
+        {
+            "id": 454,
+            "text": "Super Gogeta"
+        },
+        {
+            "id": 455,
+            "text": "Frieza"
+        },
+        {
+            "id": 456,
+            "text": "Bardock"
+        },
+        {
+            "id": 457,
+            "text": "Tora"
+        },
+        {
+            "id": 458,
+            "text": "Fasha"
+        },
+        {
+            "id": 459,
+            "text": "Goku"
+        },
+        {
+            "id": 460,
+            "text": "Frieza"
+        },
+        {
+            "id": 461,
+            "text": "Android #18"
+        },
+        {
+            "id": 462,
+            "text": "Jiren: Full Power"
+        },
+        {
+            "id": 463,
+            "text": "Beerus"
+        },
+        {
+            "id": 464,
+            "text": "Toppo"
+        },
+        {
+            "id": 465,
+            "text": "Dyspo"
+        },
+        {
+            "id": 466,
+            "text": "Goku"
+        },
+        {
+            "id": 467,
+            "text": "Vegeta"
+        },
+        {
+            "id": 468,
+            "text": "Goku"
+        },
+        {
+            "id": 469,
+            "text": "Golden Frieza"
+        },
+        {
+            "id": 470,
+            "text": "Whis"
+        },
+        {
+            "id": 471,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 472,
+            "text": "Android #17 & Android #18"
+        },
+        {
+            "id": 473,
+            "text": "Gohan & Trunks (Youth)"
+        },
+        {
+            "id": 474,
+            "text": "Gogeta"
+        },
+        {
+            "id": 475,
+            "text": "Gamma 1"
+        },
+        {
+            "id": 476,
+            "text": "Gamma 2"
+        },
+        {
+            "id": 477,
+            "text": "Goku"
+        },
+        {
+            "id": 478,
+            "text": "Vegeta"
+        },
+        {
+            "id": 479,
+            "text": "Goku"
+        },
+        {
+            "id": 480,
+            "text": "Krillin"
+        },
+        {
+            "id": 481,
+            "text": "Tien"
+        },
+        {
+            "id": 482,
+            "text": "Goku"
+        },
+        {
+            "id": 483,
+            "text": "Tapion"
+        },
+        {
+            "id": 484,
+            "text": "Turles"
+        },
+        {
+            "id": 485,
+            "text": "Cooler"
+        },
+        {
+            "id": 486,
+            "text": "Majin Vegeta"
+        },
+        {
+            "id": 487,
+            "text": "Super Vegito"
+        },
+        {
+            "id": 488,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 489,
+            "text": "Tien"
+        },
+        {
+            "id": 490,
+            "text": "Cell"
+        },
+        {
+            "id": 491,
+            "text": "Gohan"
+        },
+        {
+            "id": 492,
+            "text": "Piccolo"
+        },
+        {
+            "id": 493,
+            "text": "Metal Cooler"
+        },
+        {
+            "id": 494,
+            "text": "Cooler"
+        },
+        {
+            "id": 495,
+            "text": "Broly"
+        },
+        {
+            "id": 496,
+            "text": "Thouser"
+        },
+        {
+            "id": 497,
+            "text": "Trunks (Teen)"
+        },
+        {
+            "id": 498,
+            "text": "Mecha Frieza"
+        },
+        {
+            "id": 499,
+            "text": "Goku Black"
+        },
+        {
+            "id": 500,
+            "text": "Pan"
+        },
+        {
+            "id": 501,
+            "text": "Goku & Vegeta"
+        },
+        {
+            "id": 502,
+            "text": "Android #17"
+        },
+        {
+            "id": 503,
+            "text": "Buu: Super"
+        },
+        {
+            "id": 507,
+            "text": "Super #17"
+        },
+        {
+            "id": 508,
+            "text": "Gogeta"
+        },
+        {
+            "id": 509,
+            "text": "Android #18"
+        },
+        {
+            "id": 510,
+            "text": "Android #17"
+        },
+        {
+            "id": 511,
+            "text": "Hit"
+        },
+        {
+            "id": 514,
+            "text": "Trunks (Adult) & Vegeta"
+        },
+        {
+            "id": 515,
+            "text": "Zamasu"
+        },
+        {
+            "id": 516,
+            "text": "Fusion Zamasu"
+        },
+        {
+            "id": 517,
+            "text": "Goku"
+        },
+        {
+            "id": 518,
+            "text": "Vegeta"
+        },
+        {
+            "id": 519,
+            "text": "Broly: Full Power"
+        },
+        {
+            "id": 520,
+            "text": "Omega Shenron"
+        },
+        {
+            "id": 521,
+            "text": "Majuub"
+        },
+        {
+            "id": 522,
+            "text": "Goku"
+        },
+        {
+            "id": 524,
+            "text": "Zahha"
+        },
+        {
+            "id": 525,
+            "text": "Saiyan in Red"
+        },
+        {
+            "id": 526,
+            "text": "Kefla"
+        },
+        {
+            "id": 527,
+            "text": "Goku"
+        },
+        {
+            "id": 528,
+            "text": "Master Roshi"
+        },
+        {
+            "id": 529,
+            "text": "Bergamo"
+        },
+        {
+            "id": 530,
+            "text": "Kale (Berserk)"
+        },
+        {
+            "id": 531,
+            "text": "Trunks (Adult)"
+        },
+        {
+            "id": 532,
+            "text": "Goku Black"
+        },
+        {
+            "id": 533,
+            "text": "Trunks (Adult)"
+        },
+        {
+            "id": 534,
+            "text": "Cell"
+        },
+        {
+            "id": 535,
+            "text": "Pui Pui"
+        },
+        {
+            "id": 536,
+            "text": "Goku & Vegeta"
+        },
+        {
+            "id": 538,
+            "text": "Buu: Kid"
+        },
+        {
+            "id": 539,
+            "text": "Goku & Final Form Frieza"
+        },
+        {
+            "id": 540,
+            "text": "Jiren"
+        },
+        {
+            "id": 541,
+            "text": "Kahseral"
+        },
+        {
+            "id": 542,
+            "text": "Kyawei"
+        },
+        {
+            "id": 543,
+            "text": "Champa"
+        },
+        {
+            "id": 544,
+            "text": "Vados"
+        },
+        {
+            "id": 545,
+            "text": "Ultimate Gohan"
+        },
+        {
+            "id": 546,
+            "text": "Vegeta"
+        },
+        {
+            "id": 547,
+            "text": "Cooler"
+        },
+        {
+            "id": 548,
+            "text": "Android #13"
+        },
+        {
+            "id": 549,
+            "text": "Gamma 1 & Gamma 2"
+        },
+        {
+            "id": 550,
+            "text": "Magenta"
+        },
+        {
+            "id": 551,
+            "text": "Piccolo"
+        },
+        {
+            "id": 552,
+            "text": "Gohan"
+        },
+        {
+            "id": 7000,
+            "text": "Kaiwareman"
+        },
+        {
+            "id": 7001,
+            "text": "Kyukonman"
+        },
+        {
+            "id": 7002,
+            "text": "Copyman"
+        },
+        {
+            "id": 7003,
+            "text": "Tennenman"
+        },
+        {
+            "id": 7004,
+            "text": "Jinkouman"
+        },
+        {
+            "id": 7005,
+            "text": "Nabana"
+        },
+        {
+            "id": 7006,
+            "text": "Roberry"
+        },
+        {
+            "id": 7007,
+            "text": "Appule"
+        },
+        {
+            "id": 7008,
+            "text": "Ramon"
+        },
+        {
+            "id": 7009,
+            "text": "Orlen"
+        },
+        {
+            "id": 7010,
+            "text": "Raspberry"
+        },
+        {
+            "id": 7011,
+            "text": "Navel"
+        },
+        {
+            "id": 7012,
+            "text": "Monrei"
+        },
+        {
+            "id": 7013,
+            "text": "Guprei"
+        },
+        {
+            "id": 7014,
+            "text": "Kinkanman"
+        },
+        {
+            "id": 7015,
+            "text": "Ginnanman"
+        },
+        {
+            "id": 9000,
+            "text": "Shallot"
+        },
+        {
+            "id": 9001,
+            "text": "Giblet"
+        },
+        {
+            "id": 9002,
+            "text": "Zahha"
+        },
+        {
+            "id": 9003,
+            "text": "Goku"
+        },
+        {
+            "id": 9004,
+            "text": "Trunks"
+        },
+        {
+            "id": 9005,
+            "text": "Broly"
+        },
+        {
+            "id": 9006,
+            "text": "Saiyan in Red"
+        },
+        {
+            "id": 9011,
+            "text": "Saiyan in Red"
+        },
+        {
+            "id": 9012,
+            "text": "Cocoaman"
+        },
+        {
+            "id": 9023,
+            "text": "Android #21: Transformed (Evil)"
+        },
+        {
+            "id": 9024,
+            "text": "Android #21: Evil"
+        },
+        {
+            "id": 9036,
+            "text": "Giblet"
+        },
+        {
+            "id": 9037,
+            "text": "Giblet"
+        },
+        {
+            "id": 9038,
+            "text": "Shallet"
+        },
+        {
+            "id": 9042,
+            "text": "Majin Vegeta"
+        },
+        {
+            "id": 9043,
+            "text": "Gohan"
+        },
+        {
+            "id": 9046,
+            "text": "Giblet (Dark Ki: Unleashed)"
+        },
+        {
+            "id": 9800,
+            "text": "Shallot"
+        },
+        {
+            "id": 9999,
+            "text": "Dummyman"
+        },
+        {
+            "id": 100164,
+            "text": "Broly: Full Power"
+        },
+        {
+            "id": 100268,
+            "text": "Golden Frieza"
+        },
+        {
+            "id": 100298,
+            "text": "Android #21: Transformed (Evil)"
+        },
+        {
+            "id": 100306,
+            "text": "Super Vegito"
+        },
+        {
+            "id": 100326,
+            "text": "Ultimate Gohan"
+        },
+        {
+            "id": 100334,
+            "text": "Full Power Gokua"
+        },
+        {
+            "id": 100345,
+            "text": "Perfect Cell"
+        },
+        {
+            "id": 100346,
+            "text": "Majin Vegeta"
+        },
+        {
+            "id": 100381,
+            "text": "Demon King Piccolo"
+        },
+        {
+            "id": 100411,
+            "text": "Full Power Boujack"
+        },
+        {
+            "id": 100441,
+            "text": "Gohan (Kid)"
+        },
+        {
+            "id": 100540,
+            "text": "Jiren: Full Power"
+        },
+        {
+            "id": 100551,
+            "text": "Orange Piccolo"
+        }
+    ]
+}

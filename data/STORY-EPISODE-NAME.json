@@ -1,0 +1,5118 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2288834692622308501
+    },
+    "m_Name": "STORY-EPISODE-NAME",
+    "info": [
+        {
+            "id": 900,
+            "text": "Next Event!"
+        },
+        {
+            "id": 901,
+            "text": "Recommended Event!"
+        },
+        {
+            "id": 902,
+            "text": "Recommended Content!"
+        },
+        {
+            "id": 903,
+            "text": "Related Event!"
+        },
+        {
+            "id": 100001,
+            "text": "VS Goku"
+        },
+        {
+            "id": 100003,
+            "text": "VS Gohan (Kid)"
+        },
+        {
+            "id": 100006,
+            "text": "VS Krillin"
+        },
+        {
+            "id": 100022,
+            "text": "VS Guldo"
+        },
+        {
+            "id": 100023,
+            "text": "VS Burter"
+        },
+        {
+            "id": 100024,
+            "text": "VS Recoome"
+        },
+        {
+            "id": 100025,
+            "text": "VS Jeice"
+        },
+        {
+            "id": 100029,
+            "text": "VS First Form Frieza"
+        },
+        {
+            "id": 100034,
+            "text": "VS Pikkon"
+        },
+        {
+            "id": 100041,
+            "text": "VS Yamcha"
+        },
+        {
+            "id": 100042,
+            "text": "VS Tien"
+        },
+        {
+            "id": 100043,
+            "text": "VS Chiaotzu"
+        },
+        {
+            "id": 100101,
+            "text": "Just Before the Start"
+        },
+        {
+            "id": 300101,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300102,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300103,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300104,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300105,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300106,
+            "text": "Raditz Attacks!"
+        },
+        {
+            "id": 300201,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300202,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300203,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300204,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300205,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300206,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300207,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300208,
+            "text": "Nappa the Cruel!"
+        },
+        {
+            "id": 300301,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300302,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300303,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300304,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300305,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300306,
+            "text": "Fierce Battle! Vegeta the Prince of Fate"
+        },
+        {
+            "id": 300401,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300402,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300403,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300404,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300405,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300406,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300407,
+            "text": "The Dreaded Ginyu Force"
+        },
+        {
+            "id": 300501,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300502,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300503,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300504,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300505,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300506,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300507,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300508,
+            "text": "The Advent of Frieza, the Universal Emperor!"
+        },
+        {
+            "id": 300601,
+            "text": "Bonus Battle: EXP"
+        },
+        {
+            "id": 300701,
+            "text": "Bonus Battle: Zeni"
+        },
+        {
+            "id": 300801,
+            "text": "Fearsome Android #19"
+        },
+        {
+            "id": 300901,
+            "text": "Fearsome Android #20"
+        },
+        {
+            "id": 301001,
+            "text": "The Invincible Android #18"
+        },
+        {
+            "id": 301101,
+            "text": "The Invincible Android #17"
+        },
+        {
+            "id": 301201,
+            "text": "Cell: The Evolving Life Form"
+        },
+        {
+            "id": 301301,
+            "text": "Cell: The Evolving Life Form Part II"
+        },
+        {
+            "id": 301401,
+            "text": "Cell: The Ultimate Life Form"
+        },
+        {
+            "id": 301501,
+            "text": "Knockdown! The Immortal Vegeta"
+        },
+        {
+            "id": 301601,
+            "text": "Another Future! The Android Menace"
+        },
+        {
+            "id": 301701,
+            "text": "Broly"
+        },
+        {
+            "id": 301801,
+            "text": "Super Saiyan Broly"
+        },
+        {
+            "id": 302401,
+            "text": "Ultimate Battle! Wicked Warrior Turles"
+        },
+        {
+            "id": 302501,
+            "text": "Cabba, the Saiyan from Universe 6"
+        },
+        {
+            "id": 302601,
+            "text": "Perfect Cell the Super Life Form!"
+        },
+        {
+            "id": 303501,
+            "text": "Challenging a God! God of Destruction Beerus"
+        },
+        {
+            "id": 501301,
+            "text": "The Greatest Showdown! A Transcendent Limit Break! Chapter 1"
+        },
+        {
+            "id": 501302,
+            "text": "The Greatest Showdown! A Transcendent Limit Break! Chapter 2"
+        },
+        {
+            "id": 501303,
+            "text": "The Greatest Showdown! A Transcendent Limit Break! Chapter 3"
+        },
+        {
+            "id": 501304,
+            "text": "The Greatest Showdown! A Transcendent Limit Break! Chapter 4"
+        },
+        {
+            "id": 501305,
+            "text": "The Greatest Showdown! A Transcendent Limit Break! Chapter 5"
+        },
+        {
+            "id": 501401,
+            "text": "A Miraculous Alliance An Unbelievable Final Bout! Chapter 1"
+        },
+        {
+            "id": 501402,
+            "text": "A Miraculous Alliance An Unbelievable Final Bout! Chapter 2"
+        },
+        {
+            "id": 501403,
+            "text": "A Miraculous Alliance An Unbelievable Final Bout! Chapter 3"
+        },
+        {
+            "id": 501404,
+            "text": "A Miraculous Alliance An Unbelievable Final Bout! Chapter 4"
+        },
+        {
+            "id": 501405,
+            "text": "A Miraculous Alliance An Unbelievable Final Bout! Chapter 5"
+        },
+        {
+            "id": 700301,
+            "text": "Bonus Battle RED ★1"
+        },
+        {
+            "id": 700302,
+            "text": "Bonus Battle RED ★2"
+        },
+        {
+            "id": 700303,
+            "text": "Bonus Battle RED ★3"
+        },
+        {
+            "id": 700304,
+            "text": "Bonus Battle RED ★4"
+        },
+        {
+            "id": 700305,
+            "text": "Bonus Battle RED ★5"
+        },
+        {
+            "id": 700306,
+            "text": "Bonus Battle RED ★6"
+        },
+        {
+            "id": 700307,
+            "text": "Bonus Battle RED ★7"
+        },
+        {
+            "id": 700401,
+            "text": "Bonus Battle YEL ★1"
+        },
+        {
+            "id": 700402,
+            "text": "Bonus Battle YEL ★2"
+        },
+        {
+            "id": 700403,
+            "text": "Bonus Battle YEL ★3"
+        },
+        {
+            "id": 700404,
+            "text": "Bonus Battle YEL ★4"
+        },
+        {
+            "id": 700405,
+            "text": "Bonus Battle YEL ★5"
+        },
+        {
+            "id": 700406,
+            "text": "Bonus Battle YEL ★6"
+        },
+        {
+            "id": 700407,
+            "text": "Bonus Battle YEL ★7"
+        },
+        {
+            "id": 700501,
+            "text": "Bonus Battle PUR ★1"
+        },
+        {
+            "id": 700502,
+            "text": "Bonus Battle PUR ★2"
+        },
+        {
+            "id": 700503,
+            "text": "Bonus Battle PUR ★3"
+        },
+        {
+            "id": 700504,
+            "text": "Bonus Battle PUR ★4"
+        },
+        {
+            "id": 700505,
+            "text": "Bonus Battle PUR ★5"
+        },
+        {
+            "id": 700506,
+            "text": "Bonus Battle PUR ★6"
+        },
+        {
+            "id": 700507,
+            "text": "Bonus Battle PUR ★7"
+        },
+        {
+            "id": 700601,
+            "text": "Bonus Battle GRN ★1"
+        },
+        {
+            "id": 700602,
+            "text": "Bonus Battle GRN ★2"
+        },
+        {
+            "id": 700603,
+            "text": "Bonus Battle GRN ★3"
+        },
+        {
+            "id": 700604,
+            "text": "Bonus Battle GRN ★4"
+        },
+        {
+            "id": 700605,
+            "text": "Bonus Battle GRN ★5"
+        },
+        {
+            "id": 700606,
+            "text": "Bonus Battle GRN ★6"
+        },
+        {
+            "id": 700607,
+            "text": "Bonus Battle GRN ★7"
+        },
+        {
+            "id": 700701,
+            "text": "Bonus Battle BLU ★1"
+        },
+        {
+            "id": 700702,
+            "text": "Bonus Battle BLU ★2"
+        },
+        {
+            "id": 700703,
+            "text": "Bonus Battle BLU ★3"
+        },
+        {
+            "id": 700704,
+            "text": "Bonus Battle BLU ★4"
+        },
+        {
+            "id": 700705,
+            "text": "Bonus Battle BLU ★5"
+        },
+        {
+            "id": 700706,
+            "text": "Bonus Battle BLU ★6"
+        },
+        {
+            "id": 700707,
+            "text": "Bonus Battle BLU ★7"
+        },
+        {
+            "id": 700801,
+            "text": "Bonus Battle: Super EXP"
+        },
+        {
+            "id": 700901,
+            "text": "Bonus Battle: Super Zeni"
+        },
+        {
+            "id": 701000,
+            "text": "Zenkai Souls -RED-"
+        },
+        {
+            "id": 701001,
+            "text": "Zenkai Souls -YEL-"
+        },
+        {
+            "id": 701002,
+            "text": "Zenkai Souls -PUR-"
+        },
+        {
+            "id": 701003,
+            "text": "Zenkai Souls -GRN-"
+        },
+        {
+            "id": 701004,
+            "text": "Zenkai Souls -BLU-"
+        },
+        {
+            "id": 701101,
+            "text": "Bonus Battle RED ★1, 2"
+        },
+        {
+            "id": 701102,
+            "text": "Bonus Battle RED ★3, 4"
+        },
+        {
+            "id": 701103,
+            "text": "Bonus Battle RED ★5, 6, 7"
+        },
+        {
+            "id": 701201,
+            "text": "Bonus Battle YEL ★1, 2"
+        },
+        {
+            "id": 701202,
+            "text": "Bonus Battle YEL ★3, 4"
+        },
+        {
+            "id": 701203,
+            "text": "Bonus Battle YEL ★5, 6, 7"
+        },
+        {
+            "id": 701301,
+            "text": "Bonus Battle PUR ★1, 2"
+        },
+        {
+            "id": 701302,
+            "text": "Bonus Battle PUR ★3, 4"
+        },
+        {
+            "id": 701303,
+            "text": "Bonus Battle PUR ★5, 6, 7"
+        },
+        {
+            "id": 701401,
+            "text": "Bonus Battle GRN ★1, 2"
+        },
+        {
+            "id": 701402,
+            "text": "Bonus Battle GRN ★3, 4"
+        },
+        {
+            "id": 701403,
+            "text": "Bonus Battle GRN ★5, 6, 7"
+        },
+        {
+            "id": 701501,
+            "text": "Bonus Battle BLU ★1, 2"
+        },
+        {
+            "id": 701502,
+            "text": "Bonus Battle BLU ★3, 4"
+        },
+        {
+            "id": 701503,
+            "text": "Bonus Battle BLU ★5, 6, 7"
+        },
+        {
+            "id": 800101,
+            "text": "Saiyan"
+        },
+        {
+            "id": 800102,
+            "text": "Lineage of Evil / Frieza Force"
+        },
+        {
+            "id": 800103,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 800104,
+            "text": "Hybrid Saiyan"
+        },
+        {
+            "id": 800105,
+            "text": "Family"
+        },
+        {
+            "id": 800106,
+            "text": "Regeneration"
+        },
+        {
+            "id": 800107,
+            "text": "Sagas From the Movies"
+        },
+        {
+            "id": 800108,
+            "text": "Future"
+        },
+        {
+            "id": 800109,
+            "text": "Girls"
+        },
+        {
+            "id": 800110,
+            "text": "Android"
+        },
+        {
+            "id": 800111,
+            "text": "Fusion Warrior"
+        },
+        {
+            "id": 800112,
+            "text": "Rogue"
+        },
+        {
+            "id": 800113,
+            "text": "Mono RED"
+        },
+        {
+            "id": 800114,
+            "text": "Mono BLU"
+        },
+        {
+            "id": 800115,
+            "text": "Mono GRN"
+        },
+        {
+            "id": 800116,
+            "text": "Mono PUR"
+        },
+        {
+            "id": 800117,
+            "text": "Mono YEL"
+        },
+        {
+            "id": 800118,
+            "text": "God Ki"
+        },
+        {
+            "id": 800119,
+            "text": "Rival Universe"
+        },
+        {
+            "id": 800120,
+            "text": "Lineage of Evil"
+        },
+        {
+            "id": 800121,
+            "text": "Vegeta Clan"
+        },
+        {
+            "id": 800122,
+            "text": "Universe Survival Saga (S)"
+        },
+        {
+            "id": 800123,
+            "text": "Son Family"
+        },
+        {
+            "id": 800124,
+            "text": "Universe 2"
+        },
+        {
+            "id": 800125,
+            "text": "Universe 6"
+        },
+        {
+            "id": 800126,
+            "text": "Universe 11"
+        },
+        {
+            "id": 800127,
+            "text": "Universe 9"
+        },
+        {
+            "id": 800201,
+            "text": "\u0001[Limited Time]\r\nCollect Mochi"
+        },
+        {
+            "id": 800202,
+            "text": "\u0001[Limited Time]\r\nCollect Equipment Medals"
+        },
+        {
+            "id": 800203,
+            "text": "\u0001[Limited Time]\r\nThanks for 2 years!!"
+        },
+        {
+            "id": 800213,
+            "text": "Cell Saga (Z)"
+        },
+        {
+            "id": 800214,
+            "text": "GT"
+        },
+        {
+            "id": 800215,
+            "text": "Super Saiyan 4 Gogeta (DBL35-01S)"
+        },
+        {
+            "id": 800216,
+            "text": "\"Future\" Trunks Saga (S)"
+        },
+        {
+            "id": 800217,
+            "text": "Sagas From the Movies & BLU"
+        },
+        {
+            "id": 800218,
+            "text": "Majin Buu Saga (Z)"
+        },
+        {
+            "id": 800219,
+            "text": "Super Saiyan 4 Goku (DBL34-01S)"
+        },
+        {
+            "id": 800220,
+            "text": "Sagas From the Movies & PUR"
+        },
+        {
+            "id": 800221,
+            "text": "Anime Original Sagas"
+        },
+        {
+            "id": 800222,
+            "text": "Sagas From the Movies & YEL"
+        },
+        {
+            "id": 800223,
+            "text": "Frieza Saga (Z)"
+        },
+        {
+            "id": 800224,
+            "text": "1st Form Frieza (DBL22-05S)"
+        },
+        {
+            "id": 800225,
+            "text": "Final Form Frieza: Full Power (DBL37-02S)"
+        },
+        {
+            "id": 800226,
+            "text": "God Ki & YEL"
+        },
+        {
+            "id": 800227,
+            "text": "Perfect Cell (DBL40-02S)"
+        },
+        {
+            "id": 800228,
+            "text": "Androids Saga (Z)"
+        },
+        {
+            "id": 800230,
+            "text": "Sagas From the Movies & GRN"
+        },
+        {
+            "id": 800231,
+            "text": "Super Saiyan Broly: Full Power (DBL30-03S)"
+        },
+        {
+            "id": 800232,
+            "text": "Saiyan Saga (Z)"
+        },
+        {
+            "id": 800233,
+            "text": "Fusion Warrior & YEL"
+        },
+        {
+            "id": 800234,
+            "text": "Buu: Kid (DBL32-02S)"
+        },
+        {
+            "id": 800235,
+            "text": "Vegeta (DBL26-06S)"
+        },
+        {
+            "id": 800236,
+            "text": "Jiren: Full Power (DBL44-01S)"
+        },
+        {
+            "id": 800237,
+            "text": "Bardock (DBL43-01S)"
+        },
+        {
+            "id": 800238,
+            "text": "Sagas From the Movies & RED"
+        },
+        {
+            "id": 800239,
+            "text": "Powerful Opponent & PUR"
+        },
+        {
+            "id": 800240,
+            "text": "Super Saiyan Gohan (DBL31-01S)"
+        },
+        {
+            "id": 800242,
+            "text": "Game Originals"
+        },
+        {
+            "id": 800243,
+            "text": "Half-Corrupted Fusion Zamasu (DBL35-08S)"
+        },
+        {
+            "id": 800244,
+            "text": "God Ki"
+        },
+        {
+            "id": 1001000,
+            "text": "The Cell Games"
+        },
+        {
+            "id": 1002000,
+            "text": "Kakarot!!!"
+        },
+        {
+            "id": 1003000,
+            "text": "The Ultimate Showdown! Gods VS the Super Warrior"
+        },
+        {
+            "id": 1003001,
+            "text": "Super Warrior Showdown!"
+        },
+        {
+            "id": 1003002,
+            "text": "Gods Showdown!"
+        },
+        {
+            "id": 1004001,
+            "text": "- RED -"
+        },
+        {
+            "id": 1004002,
+            "text": "- YEL -"
+        },
+        {
+            "id": 1004003,
+            "text": "- PUR -"
+        },
+        {
+            "id": 1004004,
+            "text": "- GRN -"
+        },
+        {
+            "id": 1004005,
+            "text": "- BLU -"
+        },
+        {
+            "id": 1004006,
+            "text": "- Champion -"
+        },
+        {
+            "id": 1005001,
+            "text": "- Androids -"
+        },
+        {
+            "id": 1005002,
+            "text": "- Frieza -"
+        },
+        {
+            "id": 1005003,
+            "text": "- Super Saiyans -"
+        },
+        {
+            "id": 1005004,
+            "text": "- Universe 7 -"
+        },
+        {
+            "id": 1005005,
+            "text": "- Universe 6 -"
+        },
+        {
+            "id": 1006001,
+            "text": "- Goku -"
+        },
+        {
+            "id": 1006002,
+            "text": "- Girls -"
+        },
+        {
+            "id": 1006003,
+            "text": "- Universe 2 -"
+        },
+        {
+            "id": 1006004,
+            "text": "- Androids -"
+        },
+        {
+            "id": 1006005,
+            "text": "- Legends Road -"
+        },
+        {
+            "id": 1006006,
+            "text": "- Champion -"
+        },
+        {
+            "id": 1007001,
+            "text": "- RED -"
+        },
+        {
+            "id": 1007002,
+            "text": "- YEL -"
+        },
+        {
+            "id": 1007003,
+            "text": "- PUR -"
+        },
+        {
+            "id": 1007004,
+            "text": "- GRN -"
+        },
+        {
+            "id": 1007005,
+            "text": "- BLU -"
+        },
+        {
+            "id": 1007006,
+            "text": "- DRK -"
+        },
+        {
+            "id": 1010101,
+            "text": "Shallot"
+        },
+        {
+            "id": 1010102,
+            "text": "Shallot"
+        },
+        {
+            "id": 1010103,
+            "text": "Shallot"
+        },
+        {
+            "id": 1010104,
+            "text": "Shallot"
+        },
+        {
+            "id": 1010201,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010202,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010203,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010204,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010205,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010206,
+            "text": "A New Encounter"
+        },
+        {
+            "id": 1010301,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010302,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010303,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010304,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010305,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010306,
+            "text": "Raditz's Revenge"
+        },
+        {
+            "id": 1010401,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010402,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010403,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010404,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010405,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010406,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010407,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010408,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010409,
+            "text": "The Saiyan's Teacher"
+        },
+        {
+            "id": 1010501,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010502,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010503,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010504,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010505,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010506,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010507,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010508,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010509,
+            "text": "Training Before the Battle!"
+        },
+        {
+            "id": 1010601,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010602,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010603,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010604,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010605,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010606,
+            "text": "Truth of the Survival Game"
+        },
+        {
+            "id": 1010701,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1010702,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1010703,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1010704,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1010705,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1010706,
+            "text": "The Saiyan in Red"
+        },
+        {
+            "id": 1020101,
+            "text": "Unexpected Visitors"
+        },
+        {
+            "id": 1020201,
+            "text": "A United Front"
+        },
+        {
+            "id": 1020301,
+            "text": "Ginyu Force, Assemble!"
+        },
+        {
+            "id": 1020401,
+            "text": "Shallot Joins the Ginyu Force?!"
+        },
+        {
+            "id": 1020501,
+            "text": "Time for Vengeance!"
+        },
+        {
+            "id": 1020601,
+            "text": "The Wicked Alliance"
+        },
+        {
+            "id": 1020701,
+            "text": "Clash! Showdown with Frieza!"
+        },
+        {
+            "id": 1020801,
+            "text": "Unabating Evil Tendencies"
+        },
+        {
+            "id": 1030101,
+            "text": "Brewing Storm"
+        },
+        {
+            "id": 1030201,
+            "text": "Attack of the Ultimate Android"
+        },
+        {
+            "id": 1030301,
+            "text": "Android #16"
+        },
+        {
+            "id": 1030401,
+            "text": "Go Forth, Fledgling Warriors!"
+        },
+        {
+            "id": 1030501,
+            "text": "The Final Battle Unfolds"
+        },
+        {
+            "id": 1030601,
+            "text": "Cell Strikes Back"
+        },
+        {
+            "id": 1030701,
+            "text": "Showdown! The Fated Saiyan"
+        },
+        {
+            "id": 1040101,
+            "text": "Dawn of a New Terror"
+        },
+        {
+            "id": 1040201,
+            "text": "The Foreboding Battle"
+        },
+        {
+            "id": 1040301,
+            "text": "Super Warriors, Assemble!"
+        },
+        {
+            "id": 1040401,
+            "text": "The Super Cell Games Begin!"
+        },
+        {
+            "id": 1040501,
+            "text": "Limit Breaking Death Match!"
+        },
+        {
+            "id": 1040601,
+            "text": "Vanishing Warriors"
+        },
+        {
+            "id": 1040701,
+            "text": "The Last Stand!"
+        },
+        {
+            "id": 1040801,
+            "text": "The Conclusion to the Super Cell Games!"
+        },
+        {
+            "id": 1050101,
+            "text": "Female Saiyan Caulifla!"
+        },
+        {
+            "id": 1050201,
+            "text": "Chi-Chi and Goku"
+        },
+        {
+            "id": 1050301,
+            "text": "The Warriors of Love Return!"
+        },
+        {
+            "id": 1050401,
+            "text": "Rampaging Warrior Kale!"
+        },
+        {
+            "id": 1050501,
+            "text": "Majin Buu Attacks!"
+        },
+        {
+            "id": 1060101,
+            "text": "A Wall to Overcome"
+        },
+        {
+            "id": 1060201,
+            "text": "Successor of Hope"
+        },
+        {
+            "id": 1060301,
+            "text": "The Immortal Evil Majin"
+        },
+        {
+            "id": 1060401,
+            "text": "The Ultimate Power, Super Saiyan 3!"
+        },
+        {
+            "id": 1060501,
+            "text": "Another Fated Showdown!"
+        },
+        {
+            "id": 1070101,
+            "text": "Back to Earth!"
+        },
+        {
+            "id": 1070201,
+            "text": "Majin Vegeta Attacks!"
+        },
+        {
+            "id": 1070301,
+            "text": "Evolving Androids"
+        },
+        {
+            "id": 1070401,
+            "text": "A Saiyan's Pride"
+        },
+        {
+            "id": 1070501,
+            "text": "The Impending Battle"
+        },
+        {
+            "id": 1070601,
+            "text": "The Bonds of Friendship"
+        },
+        {
+            "id": 1070701,
+            "text": "The Saiyan God"
+        },
+        {
+            "id": 1080101,
+            "text": "The Truth Revealed...!"
+        },
+        {
+            "id": 1080201,
+            "text": "Warriors On The Move!"
+        },
+        {
+            "id": 1080301,
+            "text": "An Unexpected Visitor"
+        },
+        {
+            "id": 1080401,
+            "text": "Clash with the Ruthless Majin!"
+        },
+        {
+            "id": 1080501,
+            "text": "Imminent Disaster! Battle of the Buus"
+        },
+        {
+            "id": 1080601,
+            "text": "Gathering Ki For One Decisive Blow!"
+        },
+        {
+            "id": 1090101,
+            "text": "Shallot's Impatience"
+        },
+        {
+            "id": 1090201,
+            "text": "Mini-Fighters' Time to Shine!"
+        },
+        {
+            "id": 1090301,
+            "text": "Gohan's Struggle"
+        },
+        {
+            "id": 1090401,
+            "text": "Giblet"
+        },
+        {
+            "id": 1090501,
+            "text": "A Worthy Opponent"
+        },
+        {
+            "id": 1100101,
+            "text": "An Unprecedented Nightmare"
+        },
+        {
+            "id": 1100201,
+            "text": "In the Shadow of Ice"
+        },
+        {
+            "id": 1100301,
+            "text": "Return of the Ruthless Emperor"
+        },
+        {
+            "id": 1100401,
+            "text": "A New Assassin Appears"
+        },
+        {
+            "id": 1100501,
+            "text": "The Dark Saiyan's Wrath"
+        },
+        {
+            "id": 1110101,
+            "text": "Time to Strike Back!!"
+        },
+        {
+            "id": 1110201,
+            "text": "A True Warrior"
+        },
+        {
+            "id": 1110301,
+            "text": "The Heat of Battle!"
+        },
+        {
+            "id": 1110401,
+            "text": "Frozen in Fear"
+        },
+        {
+            "id": 1110501,
+            "text": "Saiyan Strength"
+        },
+        {
+            "id": 1120101,
+            "text": "The Twin Saiyans"
+        },
+        {
+            "id": 1120201,
+            "text": "Rematch! The Warrior of the Sun"
+        },
+        {
+            "id": 1120301,
+            "text": "The Pinnacle of Dragon Power"
+        },
+        {
+            "id": 1120401,
+            "text": "Super Warrior Broly"
+        },
+        {
+            "id": 1120501,
+            "text": "Determined! Rilldo Strikes Back!"
+        },
+        {
+            "id": 1130101,
+            "text": "Farewell"
+        },
+        {
+            "id": 1130201,
+            "text": "Promised Reunion"
+        },
+        {
+            "id": 1130301,
+            "text": "Gathering Forces!"
+        },
+        {
+            "id": 1130401,
+            "text": "Onward to the Final Battle!!"
+        },
+        {
+            "id": 1130501,
+            "text": "Blade of God's Fury"
+        },
+        {
+            "id": 1130601,
+            "text": "The Red Twins' Fusion"
+        },
+        {
+            "id": 1130701,
+            "text": "Mortal Combat Climax! And..."
+        },
+        {
+            "id": 1140101,
+            "text": "God of Destruction Beerus Makes His Move!!"
+        },
+        {
+            "id": 1140201,
+            "text": "The Strength of Our Bonds!"
+        },
+        {
+            "id": 1140301,
+            "text": "The Power to Transcend Everything"
+        },
+        {
+            "id": 1140401,
+            "text": "Trio of Danger"
+        },
+        {
+            "id": 1140501,
+            "text": "Becoming Super Saiyan Blue!"
+        },
+        {
+            "id": 8004001,
+            "text": "Majin Buu: Good (DBL06-06S)"
+        },
+        {
+            "id": 8004002,
+            "text": "Super Saiyan 3 Goku (DBL06-11S)"
+        },
+        {
+            "id": 8004003,
+            "text": "Ultimate Gohan (DBL10-02S)"
+        },
+        {
+            "id": 8004004,
+            "text": "Super Saiyan God SS Goku (DBL13-01S)"
+        },
+        {
+            "id": 8004005,
+            "text": "Super Saiyan God Vegeta (DBL09-09S)"
+        },
+        {
+            "id": 10001701,
+            "text": "VS Fused with Nail Piccolo Lv300"
+        },
+        {
+            "id": 10001702,
+            "text": "VS Fused with Nail Piccolo Lv600"
+        },
+        {
+            "id": 10001703,
+            "text": "VS Fused with Nail Piccolo Lv1000"
+        },
+        {
+            "id": 10001704,
+            "text": "VS Fused with Nail Piccolo Lv1500"
+        },
+        {
+            "id": 10003701,
+            "text": "VS Frost Lv300"
+        },
+        {
+            "id": 10003702,
+            "text": "VS Frost Lv600"
+        },
+        {
+            "id": 10003703,
+            "text": "VS Frost Lv1000"
+        },
+        {
+            "id": 10003704,
+            "text": "VS Frost Lv1500"
+        },
+        {
+            "id": 10005301,
+            "text": "VS Vegeta Lv300"
+        },
+        {
+            "id": 10005302,
+            "text": "VS Vegeta Lv600"
+        },
+        {
+            "id": 10005303,
+            "text": "VS Vegeta Lv1000"
+        },
+        {
+            "id": 10005304,
+            "text": "VS Vegeta Lv1500"
+        },
+        {
+            "id": 10005401,
+            "text": "VS Turles Lv300"
+        },
+        {
+            "id": 10005402,
+            "text": "VS Turles Lv600"
+        },
+        {
+            "id": 10005403,
+            "text": "VS Turles Lv1000"
+        },
+        {
+            "id": 10005404,
+            "text": "VS Turles Lv1500"
+        },
+        {
+            "id": 10006401,
+            "text": "VS 1st Form Cell Lv300"
+        },
+        {
+            "id": 10006402,
+            "text": "VS 1st Form Cell Lv600"
+        },
+        {
+            "id": 10006403,
+            "text": "VS 1st Form Cell Lv1000"
+        },
+        {
+            "id": 10006404,
+            "text": "VS 1st Form Cell Lv1500"
+        },
+        {
+            "id": 10006801,
+            "text": "VS Android #18 Lv300"
+        },
+        {
+            "id": 10006802,
+            "text": "VS Android #18 Lv600"
+        },
+        {
+            "id": 10006803,
+            "text": "VS Android #18 Lv1000"
+        },
+        {
+            "id": 10006804,
+            "text": "VS Android #18 Lv1500"
+        },
+        {
+            "id": 10010201,
+            "text": "VS Trunks (Kid) Lv300"
+        },
+        {
+            "id": 10010202,
+            "text": "VS Trunks (Kid) Lv600"
+        },
+        {
+            "id": 10010203,
+            "text": "VS Trunks (Kid) Lv1000"
+        },
+        {
+            "id": 10010204,
+            "text": "VS Trunks (Kid) Lv1500"
+        },
+        {
+            "id": 20000100,
+            "text": "Tutorial"
+        },
+        {
+            "id": 20000101,
+            "text": "Beginner"
+        },
+        {
+            "id": 20000102,
+            "text": "Intermediate"
+        },
+        {
+            "id": 20000103,
+            "text": "Advanced"
+        },
+        {
+            "id": 30200000,
+            "text": "Legends Road"
+        },
+        {
+            "id": 30200001,
+            "text": "BATTLE 1"
+        },
+        {
+            "id": 30200002,
+            "text": "BATTLE 2"
+        },
+        {
+            "id": 30200003,
+            "text": "BATTLE 3"
+        },
+        {
+            "id": 30200004,
+            "text": "EX BATTLE 1"
+        },
+        {
+            "id": 30200005,
+            "text": "EX BATTLE 2"
+        },
+        {
+            "id": 30200006,
+            "text": "EX BATTLE 3"
+        },
+        {
+            "id": 30200007,
+            "text": "EX BATTLE 4"
+        },
+        {
+            "id": 30200008,
+            "text": "CHALLENGE BATTLE"
+        },
+        {
+            "id": 30200009,
+            "text": "EX BATTLE 5"
+        },
+        {
+            "id": 30200010,
+            "text": "EX BATTLE 6"
+        },
+        {
+            "id": 30200011,
+            "text": "CHALLENGE BATTLE 2"
+        },
+        {
+            "id": 30201000,
+            "text": "Legends Road - Trunks (Youth) -"
+        },
+        {
+            "id": 30202000,
+            "text": "Legends Road - Gotenks -"
+        },
+        {
+            "id": 30209001,
+            "text": "Elite Soldier N Chapter 1"
+        },
+        {
+            "id": 30209002,
+            "text": "Elite Soldier N Chapter 2"
+        },
+        {
+            "id": 30209003,
+            "text": "Elite Soldier N Chapter 3"
+        },
+        {
+            "id": 30209004,
+            "text": "Elite Soldier N Chapter 4"
+        },
+        {
+            "id": 30209005,
+            "text": "Elite Soldier N Chapter 5"
+        },
+        {
+            "id": 30209006,
+            "text": "Elite Soldier N Chapter 6"
+        },
+        {
+            "id": 30209007,
+            "text": "Elite Soldier N Chapter 7"
+        },
+        {
+            "id": 30209008,
+            "text": "Elite Soldier N Chapter 8"
+        },
+        {
+            "id": 30209009,
+            "text": "Elite Soldier N Chapter 9"
+        },
+        {
+            "id": 30211001,
+            "text": "The Elegant Android BATTLE 1"
+        },
+        {
+            "id": 30211002,
+            "text": "The Elegant Android BATTLE 2"
+        },
+        {
+            "id": 30211003,
+            "text": "The Elegant Android BATTLE 3"
+        },
+        {
+            "id": 30211004,
+            "text": "The Elegant Android BATTLE 4"
+        },
+        {
+            "id": 30211005,
+            "text": "The Elegant Android BATTLE 5"
+        },
+        {
+            "id": 30211006,
+            "text": "The Elegant Android BATTLE 6"
+        },
+        {
+            "id": 30211007,
+            "text": "The Elegant Android BATTLE 7"
+        },
+        {
+            "id": 30211008,
+            "text": "The Elegant Android BATTLE 8"
+        },
+        {
+            "id": 30211009,
+            "text": "The Elegant Android BATTLE 9"
+        },
+        {
+            "id": 30211010,
+            "text": "The Elegant Android BATTLE 10"
+        },
+        {
+            "id": 30211011,
+            "text": "The Elegant Android BATTLE 11"
+        },
+        {
+            "id": 30211012,
+            "text": "The Elegant Android BATTLE 12"
+        },
+        {
+            "id": 30211013,
+            "text": "The Elegant Android BATTLE 13"
+        },
+        {
+            "id": 30212001,
+            "text": "Turtle Medal (Bronze) Stage 1"
+        },
+        {
+            "id": 30212002,
+            "text": "Turtle Medal (Silver) Stage 1"
+        },
+        {
+            "id": 30212003,
+            "text": "Z Power \"Goku (Youth)\" Stage"
+        },
+        {
+            "id": 30212004,
+            "text": "Turtle Medal (Gold) Stage 1"
+        },
+        {
+            "id": 30212005,
+            "text": "Character-Specific Souls \"Goku (Youth)\" Stage 1"
+        },
+        {
+            "id": 30212006,
+            "text": "Turtle Medal (Bronze) Stage 2"
+        },
+        {
+            "id": 30212007,
+            "text": "Turtle Medal (Silver) Stage 2"
+        },
+        {
+            "id": 30212008,
+            "text": "Turtle Medal (Gold) Stage"
+        },
+        {
+            "id": 30212009,
+            "text": "Character-Specific Souls \"Goku (Youth)\" Stage"
+        },
+        {
+            "id": 30212012,
+            "text": "Once-Daily Limited Stage"
+        },
+        {
+            "id": 30212014,
+            "text": "Once-Daily Limited Stage 2"
+        },
+        {
+            "id": 30213001,
+            "text": "The Saiyan Raised on Earth BATTLE 1"
+        },
+        {
+            "id": 30213002,
+            "text": "The Saiyan Raised on Earth BATTLE 2"
+        },
+        {
+            "id": 30213003,
+            "text": "The Saiyan Raised on Earth BATTLE 3"
+        },
+        {
+            "id": 30213004,
+            "text": "The Saiyan Raised on Earth BATTLE 4"
+        },
+        {
+            "id": 30213005,
+            "text": "The Saiyan Raised on Earth BATTLE 5"
+        },
+        {
+            "id": 30213006,
+            "text": "The Saiyan Raised on Earth BATTLE 6"
+        },
+        {
+            "id": 30213007,
+            "text": "The Saiyan Raised on Earth BATTLE 7"
+        },
+        {
+            "id": 30213008,
+            "text": "The Saiyan Raised on Earth BATTLE 8"
+        },
+        {
+            "id": 30213009,
+            "text": "The Saiyan Raised on Earth BATTLE 9"
+        },
+        {
+            "id": 30213010,
+            "text": "The Saiyan Raised on Earth BATTLE 10"
+        },
+        {
+            "id": 30213011,
+            "text": "The Saiyan Raised on Earth BATTLE 11"
+        },
+        {
+            "id": 30215001,
+            "text": "Hope Medal (Bronze) Stage 1"
+        },
+        {
+            "id": 30215002,
+            "text": "Hope Medal (Silver) Stage 1"
+        },
+        {
+            "id": 30215003,
+            "text": "Z Power \"Trunks (Youth)\" Stage"
+        },
+        {
+            "id": 30215004,
+            "text": "Hope Medal (Gold) Stage"
+        },
+        {
+            "id": 30215005,
+            "text": "Character-Specific Souls \"Trunks (Youth)\" Stage"
+        },
+        {
+            "id": 30215006,
+            "text": "Hope Medal (Bronze) Stage 2"
+        },
+        {
+            "id": 30215007,
+            "text": "Hope Medal (Silver) Stage 2"
+        },
+        {
+            "id": 30215008,
+            "text": "Hope Medal (Gold) Stage 2"
+        },
+        {
+            "id": 30215009,
+            "text": "Character-Specific Souls \"Trunks (Youth)\" Stage 2"
+        },
+        {
+            "id": 30216001,
+            "text": "Once-Daily Limited Stage Tien"
+        },
+        {
+            "id": 30216002,
+            "text": "Once-Daily Limited Stage Krillin"
+        },
+        {
+            "id": 30218013,
+            "text": "BONUS BATTLE"
+        },
+        {
+            "id": 30219001,
+            "text": "VS Pikkon"
+        },
+        {
+            "id": 30219002,
+            "text": "VS Super Saiyan Vegeta"
+        },
+        {
+            "id": 30219003,
+            "text": "VS Super Kaioken Goku"
+        },
+        {
+            "id": 30219004,
+            "text": "VS Super Gogeta"
+        },
+        {
+            "id": 30220000,
+            "text": "Raditz Attacks! Chapter 1"
+        },
+        {
+            "id": 30220001,
+            "text": "Raditz Attacks! Chapter 2"
+        },
+        {
+            "id": 30220002,
+            "text": "Raditz Attacks! Chapter 3"
+        },
+        {
+            "id": 30220003,
+            "text": "Raditz Attacks! EX-1"
+        },
+        {
+            "id": 30220004,
+            "text": "Raditz Attacks! EX-2"
+        },
+        {
+            "id": 30220005,
+            "text": "Raditz Attacks! EX-3"
+        },
+        {
+            "id": 30220006,
+            "text": "Raditz Attacks! EX-4"
+        },
+        {
+            "id": 30220007,
+            "text": "Raditz Attacks! EX-5"
+        },
+        {
+            "id": 30220008,
+            "text": "Raditz Attacks! EX-6"
+        },
+        {
+            "id": 30221001,
+            "text": "VS Super Saiyan 2 Trunks (Adult)"
+        },
+        {
+            "id": 30222000,
+            "text": "Nappa the Cruel! Chapter 1"
+        },
+        {
+            "id": 30222001,
+            "text": "Nappa the Cruel! Chapter 2"
+        },
+        {
+            "id": 30222002,
+            "text": "Nappa the Cruel! Chapter 3"
+        },
+        {
+            "id": 30222003,
+            "text": "Nappa the Cruel! Chapter 4"
+        },
+        {
+            "id": 30222004,
+            "text": "Nappa the Cruel! Chapter 5"
+        },
+        {
+            "id": 30222005,
+            "text": "Nappa the Cruel! EX-1"
+        },
+        {
+            "id": 30222006,
+            "text": "Nappa the Cruel! EX-2"
+        },
+        {
+            "id": 30222007,
+            "text": "Nappa the Cruel! EX-3"
+        },
+        {
+            "id": 30223001,
+            "text": "VS Majin Buu: Good"
+        },
+        {
+            "id": 30225001,
+            "text": "VS Final Form Frieza: Full Power"
+        },
+        {
+            "id": 30226001,
+            "text": "Fierce Battle! Vegeta the Prince of Fate Chapter 1"
+        },
+        {
+            "id": 30226002,
+            "text": "Fierce Battle! Vegeta the Prince of Fate Chapter 2"
+        },
+        {
+            "id": 30226003,
+            "text": "Fierce Battle! Vegeta the Prince of Fate Chapter 3"
+        },
+        {
+            "id": 30226004,
+            "text": "Fierce Battle! Vegeta the Prince of Fate Chapter 4"
+        },
+        {
+            "id": 30226005,
+            "text": "Fierce Battle! Vegeta the Prince of Fate EX-1"
+        },
+        {
+            "id": 30226006,
+            "text": "Fierce Battle! Vegeta the Prince of Fate EX-2"
+        },
+        {
+            "id": 30226007,
+            "text": "Fierce Battle! Vegeta the Prince of Fate EX-3"
+        },
+        {
+            "id": 30226008,
+            "text": "Fierce Battle! Vegeta the Prince of Fate EX-4"
+        },
+        {
+            "id": 30227001,
+            "text": "The Advent of Frieza, the Universal Emperor! Chapter 1"
+        },
+        {
+            "id": 30227002,
+            "text": "The Advent of Frieza, the Universal Emperor! Chapter 2"
+        },
+        {
+            "id": 30227003,
+            "text": "The Advent of Frieza, the Universal Emperor! Chapter 3"
+        },
+        {
+            "id": 30227004,
+            "text": "The Advent of Frieza, the Universal Emperor! Chapter 4"
+        },
+        {
+            "id": 30227005,
+            "text": "The Advent of Frieza, the Universal Emperor! Chapter 5"
+        },
+        {
+            "id": 30227006,
+            "text": "The Advent of Frieza, the Universal Emperor! EX-1"
+        },
+        {
+            "id": 30227007,
+            "text": "The Advent of Frieza, the Universal Emperor! EX-2"
+        },
+        {
+            "id": 30227008,
+            "text": "The Advent of Frieza, the Universal Emperor! EX-3"
+        },
+        {
+            "id": 30229001,
+            "text": "Z Power \"Gotenks\" Stage"
+        },
+        {
+            "id": 30229002,
+            "text": "Ghost Medal (Gold) Stage"
+        },
+        {
+            "id": 30229003,
+            "text": "Character-Specific Souls \"Gotenks\" Stage"
+        },
+        {
+            "id": 30230001,
+            "text": "Extreme Clash Raid VS Jiren"
+        },
+        {
+            "id": 30232001,
+            "text": "VS Super Saiyan Broly: Full Power"
+        },
+        {
+            "id": 30233001,
+            "text": "Broly Chapter 1"
+        },
+        {
+            "id": 30233002,
+            "text": "Broly Chapter 2"
+        },
+        {
+            "id": 30233003,
+            "text": "Broly Chapter 3"
+        },
+        {
+            "id": 30233004,
+            "text": "Broly Chapter 4"
+        },
+        {
+            "id": 30233005,
+            "text": "Broly Chapter 5"
+        },
+        {
+            "id": 30233006,
+            "text": "Broly EX-1"
+        },
+        {
+            "id": 30233007,
+            "text": "Broly EX-2"
+        },
+        {
+            "id": 30233008,
+            "text": "Broly EX-3"
+        },
+        {
+            "id": 30234001,
+            "text": "VS Android #17"
+        },
+        {
+            "id": 30236001,
+            "text": "Cell: The Evolving Life Form Part II Chapter 1"
+        },
+        {
+            "id": 30236002,
+            "text": "Cell: The Evolving Life Form Part II Chapter 2"
+        },
+        {
+            "id": 30236003,
+            "text": "Cell: The Evolving Life Form Part II Chapter 3"
+        },
+        {
+            "id": 30236004,
+            "text": "Cell: The Evolving Life Form Part II Chapter 4"
+        },
+        {
+            "id": 30236005,
+            "text": "Cell: The Evolving Life Form Part II EX-1"
+        },
+        {
+            "id": 30236006,
+            "text": "Cell: The Evolving Life Form Part II EX-2"
+        },
+        {
+            "id": 30236007,
+            "text": "Cell: The Evolving Life Form Part II EX-3"
+        },
+        {
+            "id": 30237001,
+            "text": "VS Vegeta"
+        },
+        {
+            "id": 30238001,
+            "text": "The Abominable Majin Buu! Chapter 1"
+        },
+        {
+            "id": 30238002,
+            "text": "The Abominable Majin Buu! Chapter 2"
+        },
+        {
+            "id": 30238003,
+            "text": "The Abominable Majin Buu! Chapter 3"
+        },
+        {
+            "id": 30238004,
+            "text": "The Abominable Majin Buu! Chapter 4"
+        },
+        {
+            "id": 30238005,
+            "text": "The Abominable Majin Buu! EX-1"
+        },
+        {
+            "id": 30238006,
+            "text": "The Abominable Majin Buu! EX-2"
+        },
+        {
+            "id": 30238007,
+            "text": "The Abominable Majin Buu! EX-3"
+        },
+        {
+            "id": 30240001,
+            "text": "The Dreaded Ginyu Force Chapter 1"
+        },
+        {
+            "id": 30240002,
+            "text": "The Dreaded Ginyu Force Chapter 2"
+        },
+        {
+            "id": 30240003,
+            "text": "The Dreaded Ginyu Force Chapter 3"
+        },
+        {
+            "id": 30240004,
+            "text": "The Dreaded Ginyu Force Chapter 4"
+        },
+        {
+            "id": 30240005,
+            "text": "The Dreaded Ginyu Force EX-1"
+        },
+        {
+            "id": 30240006,
+            "text": "The Dreaded Ginyu Force EX-2"
+        },
+        {
+            "id": 30240007,
+            "text": "The Dreaded Ginyu Force EX-3"
+        },
+        {
+            "id": 30241001,
+            "text": "VS Super Saiyan God SS Goku"
+        },
+        {
+            "id": 30243008,
+            "text": "SPECIAL BATTLE"
+        },
+        {
+            "id": 30243009,
+            "text": "SPECIAL BATTLE 2"
+        },
+        {
+            "id": 30244001,
+            "text": "VS Super Baby 2"
+        },
+        {
+            "id": 30245001,
+            "text": "Z Power \"Piccolo\" Stage"
+        },
+        {
+            "id": 30245002,
+            "text": "Turban Medal (Gold) Stage"
+        },
+        {
+            "id": 30245003,
+            "text": "Character-Specific Souls \"Piccolo\" Stage"
+        },
+        {
+            "id": 30247001,
+            "text": "Another Future! The Android Menace Chapter 1"
+        },
+        {
+            "id": 30247002,
+            "text": "Another Future! The Android Menace Chapter 2"
+        },
+        {
+            "id": 30247003,
+            "text": "Another Future! The Android Menace Chapter 3"
+        },
+        {
+            "id": 30247004,
+            "text": "Another Future! The Android Menace EX-1"
+        },
+        {
+            "id": 30247005,
+            "text": "Another Future! The Android Menace EX-2"
+        },
+        {
+            "id": 30247006,
+            "text": "Another Future! The Android Menace EX-3"
+        },
+        {
+            "id": 30247007,
+            "text": "Another Future! The Android Menace EX-4"
+        },
+        {
+            "id": 30249001,
+            "text": "Z Power \"Goku\" Stage"
+        },
+        {
+            "id": 30249002,
+            "text": "Yardrat Medal (Gold) Stage"
+        },
+        {
+            "id": 30249003,
+            "text": "Character-Specific Souls \"Goku\" Stage"
+        },
+        {
+            "id": 30251101,
+            "text": "VS Half-Corrupted Fusion Zamasu"
+        },
+        {
+            "id": 30251201,
+            "text": "VS Super Saiyan Rosé Goku Black"
+        },
+        {
+            "id": 30251401,
+            "text": "VS Vegeta"
+        },
+        {
+            "id": 30251501,
+            "text": "VS Super Saiyan 4 Gogeta"
+        },
+        {
+            "id": 30253001,
+            "text": "Z Power \"Gohan (Teen)\" Stage"
+        },
+        {
+            "id": 30253002,
+            "text": "Martial Arts Uniform Medal (Gold) Stage"
+        },
+        {
+            "id": 30253003,
+            "text": "Character-Specific Souls \"Gohan (Teen)\" Stage"
+        },
+        {
+            "id": 30254001,
+            "text": "Boujack, Ruler of the Galaxy! Chapter 1"
+        },
+        {
+            "id": 30254002,
+            "text": "Boujack, Ruler of the Galaxy! Chapter 2"
+        },
+        {
+            "id": 30254003,
+            "text": "Boujack, Ruler of the Galaxy! Chapter 3"
+        },
+        {
+            "id": 30254004,
+            "text": "Boujack, Ruler of the Galaxy! Chapter 4"
+        },
+        {
+            "id": 30254005,
+            "text": "Boujack, Ruler of the Galaxy! EX-1"
+        },
+        {
+            "id": 30254006,
+            "text": "Boujack, Ruler of the Galaxy! EX-2"
+        },
+        {
+            "id": 30254007,
+            "text": "Boujack, Ruler of the Galaxy! EX-3"
+        },
+        {
+            "id": 30255001,
+            "text": "Z Power \"Great Saiyaman 1\" Stage"
+        },
+        {
+            "id": 30255002,
+            "text": "Justice Medal (Gold) Stage"
+        },
+        {
+            "id": 30255003,
+            "text": "Character-Specific Souls \"Great Saiyaman 1\" Stage"
+        },
+        {
+            "id": 30257001,
+            "text": "The Final Face-Off! Full Power Frieza Chapter 1"
+        },
+        {
+            "id": 30257002,
+            "text": "The Final Face-Off! Full Power Frieza Chapter 2"
+        },
+        {
+            "id": 30257003,
+            "text": "The Final Face-Off! Full Power Frieza Chapter 3"
+        },
+        {
+            "id": 30257004,
+            "text": "The Final Face-Off! Full Power Frieza EX-1"
+        },
+        {
+            "id": 30257005,
+            "text": "The Final Face-Off! Full Power Frieza EX-2"
+        },
+        {
+            "id": 30257006,
+            "text": "The Final Face-Off! Full Power Frieza EX-3"
+        },
+        {
+            "id": 30257007,
+            "text": "The Final Face-Off! Full Power Frieza EX-4"
+        },
+        {
+            "id": 30258001,
+            "text": "VS Super Saiyan Goku"
+        },
+        {
+            "id": 30260001,
+            "text": "EX BATTLE"
+        },
+        {
+            "id": 30261001,
+            "text": "VS Toppo"
+        },
+        {
+            "id": 30262001,
+            "text": "VS Legendary Super Saiyan Broly"
+        },
+        {
+            "id": 30270008,
+            "text": "Saiyan Challenge Battle"
+        },
+        {
+            "id": 30270009,
+            "text": "Sagas From the Movies Challenge Battle"
+        },
+        {
+            "id": 30270010,
+            "text": "Lineage of Evil Challenge Battle"
+        },
+        {
+            "id": 30271001,
+            "text": "Challenging a God! God of Destruction Beerus Chapter 1"
+        },
+        {
+            "id": 30271002,
+            "text": "Challenging a God! God of Destruction Beerus Chapter 2"
+        },
+        {
+            "id": 30271003,
+            "text": "Challenging a God! God of Destruction Beerus Chapter 3"
+        },
+        {
+            "id": 30271004,
+            "text": "Challenging a God! God of Destruction Beerus EX-1"
+        },
+        {
+            "id": 30271005,
+            "text": "Challenging a God! God of Destruction Beerus EX-2"
+        },
+        {
+            "id": 30271006,
+            "text": "Challenging a God! God of Destruction Beerus EX-3"
+        },
+        {
+            "id": 30271007,
+            "text": "Challenging a God! God of Destruction Beerus EX-4"
+        },
+        {
+            "id": 30277001,
+            "text": "Fusion Reborn!! Chapter 1"
+        },
+        {
+            "id": 30277002,
+            "text": "Fusion Reborn!! Chapter 2"
+        },
+        {
+            "id": 30277003,
+            "text": "Fusion Reborn!! Chapter 3"
+        },
+        {
+            "id": 30277004,
+            "text": "Fusion Reborn!! Chapter 4"
+        },
+        {
+            "id": 30277005,
+            "text": "Fusion Reborn!! EX-1"
+        },
+        {
+            "id": 30277006,
+            "text": "Fusion Reborn!! EX-2"
+        },
+        {
+            "id": 30277007,
+            "text": "Fusion Reborn!! EX-3"
+        },
+        {
+            "id": 30277008,
+            "text": "Fusion Reborn!! EX-4"
+        },
+        {
+            "id": 30283001,
+            "text": "The Invincible Android #17 Chapter 1"
+        },
+        {
+            "id": 30283002,
+            "text": "The Invincible Android #17 Chapter 2"
+        },
+        {
+            "id": 30283003,
+            "text": "The Invincible Android #17 Chapter 3"
+        },
+        {
+            "id": 30283004,
+            "text": "The Invincible Android #17 EX-1"
+        },
+        {
+            "id": 30283005,
+            "text": "The Invincible Android #17 EX-2"
+        },
+        {
+            "id": 30283006,
+            "text": "The Invincible Android #17 EX-3"
+        },
+        {
+            "id": 30283007,
+            "text": "The Invincible Android #17 EX-4"
+        },
+        {
+            "id": 30284010,
+            "text": "SPECIAL BATTLE 1"
+        },
+        {
+            "id": 30285001,
+            "text": "TRAINING BATTLE - Trunks (Kid) -"
+        },
+        {
+            "id": 30285002,
+            "text": "TRAINING BATTLE - Trunks (Teen) -"
+        },
+        {
+            "id": 30285003,
+            "text": "TRAINING BATTLE - Super Trunks -"
+        },
+        {
+            "id": 30287001,
+            "text": "BATTLE 1 - Krillin -"
+        },
+        {
+            "id": 30287002,
+            "text": "BATTLE 2 - Krillin -"
+        },
+        {
+            "id": 30287003,
+            "text": "BATTLE 3 - Krillin -"
+        },
+        {
+            "id": 30287004,
+            "text": "BATTLE 4 - Krillin -"
+        },
+        {
+            "id": 30287005,
+            "text": "BATTLE 5 - Krillin -"
+        },
+        {
+            "id": 30287006,
+            "text": "BATTLE 6 - Krillin -"
+        },
+        {
+            "id": 30287007,
+            "text": "BATTLE 7 - Krillin -"
+        },
+        {
+            "id": 30287008,
+            "text": "BATTLE 1 - Tien -"
+        },
+        {
+            "id": 30287009,
+            "text": "BATTLE 2 - Tien -"
+        },
+        {
+            "id": 30287010,
+            "text": "BATTLE 3 - Tien -"
+        },
+        {
+            "id": 30287011,
+            "text": "BATTLE 4 - Tien -"
+        },
+        {
+            "id": 30287012,
+            "text": "BATTLE 5 - Tien -"
+        },
+        {
+            "id": 30287013,
+            "text": "BATTLE 6 - Tien -"
+        },
+        {
+            "id": 30287014,
+            "text": "BATTLE 7 - Tien -"
+        },
+        {
+            "id": 30287015,
+            "text": "BATTLE 1 - Goku -"
+        },
+        {
+            "id": 30287016,
+            "text": "BATTLE 2 - Goku -"
+        },
+        {
+            "id": 30287017,
+            "text": "BATTLE 3 - Goku -"
+        },
+        {
+            "id": 30287018,
+            "text": "BATTLE 4 - Goku -"
+        },
+        {
+            "id": 30287019,
+            "text": "BATTLE 5 - Goku -"
+        },
+        {
+            "id": 30287020,
+            "text": "BATTLE 6 - Goku -"
+        },
+        {
+            "id": 30287021,
+            "text": "BATTLE 7 - Goku -"
+        },
+        {
+            "id": 30291001,
+            "text": "The Invincible Android #18 Chapter 1"
+        },
+        {
+            "id": 30291002,
+            "text": "The Invincible Android #18 Chapter 2"
+        },
+        {
+            "id": 30291003,
+            "text": "The Invincible Android #18 Chapter 3"
+        },
+        {
+            "id": 30291004,
+            "text": "The Invincible Android #18 EX-1"
+        },
+        {
+            "id": 30291005,
+            "text": "The Invincible Android #18 EX-2"
+        },
+        {
+            "id": 30291006,
+            "text": "The Invincible Android #18 EX-3"
+        },
+        {
+            "id": 30291007,
+            "text": "The Invincible Android #18 EX-4"
+        },
+        {
+            "id": 30294001,
+            "text": "Androids Saga BATTLE 1"
+        },
+        {
+            "id": 30294002,
+            "text": "Androids Saga EX BATTLE 1"
+        },
+        {
+            "id": 30294003,
+            "text": "Cell Saga BATTLE 1"
+        },
+        {
+            "id": 30294004,
+            "text": "Cell Saga EX BATTLE 1"
+        },
+        {
+            "id": 30294005,
+            "text": "SUPER HERO BATTLE 1"
+        },
+        {
+            "id": 30294006,
+            "text": "SUPER HERO EX BATTLE 1"
+        },
+        {
+            "id": 30294007,
+            "text": "SUPER HERO BATTLE 2"
+        },
+        {
+            "id": 30294008,
+            "text": "SUPER HERO EX BATTLE 2"
+        },
+        {
+            "id": 30294009,
+            "text": "SUPER HERO BATTLE 3"
+        },
+        {
+            "id": 30294010,
+            "text": "SUPER HERO EX BATTLE 3"
+        },
+        {
+            "id": 30300001,
+            "text": "BONUS BATTLE 1"
+        },
+        {
+            "id": 30300002,
+            "text": "BONUS BATTLE 2"
+        },
+        {
+            "id": 30300003,
+            "text": "BONUS BATTLE 3"
+        },
+        {
+            "id": 30300004,
+            "text": "BONUS BATTLE 4"
+        },
+        {
+            "id": 30300005,
+            "text": "BONUS BATTLE 5"
+        },
+        {
+            "id": 30300006,
+            "text": "BONUS BATTLE 6"
+        },
+        {
+            "id": 30300007,
+            "text": "BONUS BATTLE 7"
+        },
+        {
+            "id": 30300008,
+            "text": "BONUS BATTLE 8"
+        },
+        {
+            "id": 30300009,
+            "text": "BONUS BATTLE 9"
+        },
+        {
+            "id": 30300010,
+            "text": "BONUS BATTLE 10"
+        },
+        {
+            "id": 30300011,
+            "text": "BONUS BATTLE 11"
+        },
+        {
+            "id": 30300012,
+            "text": "BONUS BATTLE 12"
+        },
+        {
+            "id": 30300013,
+            "text": "BONUS BATTLE 13"
+        },
+        {
+            "id": 30300014,
+            "text": "BONUS BATTLE 14"
+        },
+        {
+            "id": 30400001,
+            "text": "HOMERUN BATTLE 1"
+        },
+        {
+            "id": 30400002,
+            "text": "HOMERUN BATTLE 2"
+        },
+        {
+            "id": 30400003,
+            "text": "HOMERUN BATTLE 3"
+        },
+        {
+            "id": 30400004,
+            "text": "EX HOMERUN BATTLE"
+        },
+        {
+            "id": 30400005,
+            "text": "EX HOMERUN BATTLE Z"
+        },
+        {
+            "id": 30400006,
+            "text": "EX HOMERUN BATTLE Z2"
+        },
+        {
+            "id": 30900001,
+            "text": "BATTLE 1"
+        },
+        {
+            "id": 30900002,
+            "text": "BATTLE 2"
+        },
+        {
+            "id": 30900003,
+            "text": "BATTLE 3"
+        },
+        {
+            "id": 30900004,
+            "text": "BATTLE 4"
+        },
+        {
+            "id": 30900005,
+            "text": "BATTLE 5"
+        },
+        {
+            "id": 30900006,
+            "text": "BATTLE 6"
+        },
+        {
+            "id": 30900007,
+            "text": "BATTLE 7"
+        },
+        {
+            "id": 30900008,
+            "text": "BATTLE 8"
+        },
+        {
+            "id": 30900009,
+            "text": "BATTLE 9"
+        },
+        {
+            "id": 30900010,
+            "text": "BATTLE 10"
+        },
+        {
+            "id": 30900011,
+            "text": "BATTLE 11"
+        },
+        {
+            "id": 30900012,
+            "text": "BATTLE 12"
+        },
+        {
+            "id": 30900013,
+            "text": "BATTLE 13"
+        },
+        {
+            "id": 30900014,
+            "text": "BATTLE 14"
+        },
+        {
+            "id": 30900015,
+            "text": "BATTLE 15"
+        },
+        {
+            "id": 30900016,
+            "text": "BATTLE 16"
+        },
+        {
+            "id": 30900017,
+            "text": "BATTLE 17"
+        },
+        {
+            "id": 30900018,
+            "text": "BATTLE 18"
+        },
+        {
+            "id": 30900019,
+            "text": "BATTLE 19"
+        },
+        {
+            "id": 30900020,
+            "text": "BATTLE 20"
+        },
+        {
+            "id": 30900021,
+            "text": "BATTLE 21"
+        },
+        {
+            "id": 30910001,
+            "text": "Chapter 1"
+        },
+        {
+            "id": 30910002,
+            "text": "Chapter 2"
+        },
+        {
+            "id": 30910003,
+            "text": "Chapter 3"
+        },
+        {
+            "id": 30910004,
+            "text": "Chapter 4"
+        },
+        {
+            "id": 30910005,
+            "text": "Chapter 5"
+        },
+        {
+            "id": 30910006,
+            "text": "Chapter 6"
+        },
+        {
+            "id": 30910007,
+            "text": "Chapter 7"
+        },
+        {
+            "id": 30910008,
+            "text": "Chapter 8"
+        },
+        {
+            "id": 30910009,
+            "text": "Chapter 9"
+        },
+        {
+            "id": 30910010,
+            "text": "Chapter 10"
+        },
+        {
+            "id": 30920001,
+            "text": "CHALLENGE BATTLE"
+        },
+        {
+            "id": 30920002,
+            "text": "CHALLENGE BATTLE 2"
+        },
+        {
+            "id": 30920003,
+            "text": "CHALLENGE BATTLE 3"
+        },
+        {
+            "id": 30920004,
+            "text": "CHALLENGE BATTLE 4"
+        },
+        {
+            "id": 30920005,
+            "text": "CHALLENGE BATTLE 5"
+        },
+        {
+            "id": 30920006,
+            "text": "CHALLENGE BATTLE 6"
+        },
+        {
+            "id": 30920007,
+            "text": "CHALLENGE BATTLE 7"
+        },
+        {
+            "id": 30920008,
+            "text": "CHALLENGE BATTLE 8"
+        },
+        {
+            "id": 30920009,
+            "text": "CHALLENGE BATTLE 9"
+        },
+        {
+            "id": 30920010,
+            "text": "CHALLENGE BATTLE 10"
+        },
+        {
+            "id": 30920011,
+            "text": "CHALLENGE BATTLE 1"
+        },
+        {
+            "id": 31000401,
+            "text": "Cell: The Evolving Life Form Chapter 1"
+        },
+        {
+            "id": 31000402,
+            "text": "Cell: The Evolving Life Form Chapter 2"
+        },
+        {
+            "id": 31000403,
+            "text": "Cell: The Evolving Life Form Chapter 3"
+        },
+        {
+            "id": 31000404,
+            "text": "Cell: The Evolving Life Form Chapter 4"
+        },
+        {
+            "id": 31000405,
+            "text": "Cell: The Evolving Life Form EX-1"
+        },
+        {
+            "id": 31000406,
+            "text": "Cell: The Evolving Life Form EX-2"
+        },
+        {
+            "id": 31000407,
+            "text": "Cell: The Evolving Life Form EX-3"
+        },
+        {
+            "id": 31000601,
+            "text": "GRAVITY-1"
+        },
+        {
+            "id": 31000602,
+            "text": "GRAVITY-2"
+        },
+        {
+            "id": 31000603,
+            "text": "GRAVITY-3"
+        },
+        {
+            "id": 31000605,
+            "text": "GRAVITY-4"
+        },
+        {
+            "id": 31000606,
+            "text": "GRAVITY-5"
+        },
+        {
+            "id": 31010001,
+            "text": "BATTLE 1 - Ultimate Gohan -"
+        },
+        {
+            "id": 31010002,
+            "text": "BATTLE 2 - Ultimate Gohan -"
+        },
+        {
+            "id": 31010003,
+            "text": "BATTLE 3 - Ultimate Gohan -"
+        },
+        {
+            "id": 31010004,
+            "text": "BATTLE 4 - Ultimate Gohan -"
+        },
+        {
+            "id": 31010005,
+            "text": "BATTLE 5 - Ultimate Gohan -"
+        },
+        {
+            "id": 31010006,
+            "text": "BATTLE 1 - Super Saiyan God SS Vegeta -"
+        },
+        {
+            "id": 31010007,
+            "text": "BATTLE 2 - Super Saiyan God SS Vegeta -"
+        },
+        {
+            "id": 31010008,
+            "text": "BATTLE 3 - Super Saiyan God SS Vegeta -"
+        },
+        {
+            "id": 31010009,
+            "text": "BATTLE 4 - Super Saiyan God SS Vegeta -"
+        },
+        {
+            "id": 31010010,
+            "text": "BATTLE 5 - Super Saiyan God SS Vegeta -"
+        },
+        {
+            "id": 31100101,
+            "text": "BATTLE 1 - Zamasu (DBL08-14S) -"
+        },
+        {
+            "id": 31100102,
+            "text": "BATTLE 2 - Zamasu (DBL08-14S) -"
+        },
+        {
+            "id": 31100103,
+            "text": "BATTLE 3 - Zamasu (DBL08-14S) -"
+        },
+        {
+            "id": 31100104,
+            "text": "BATTLE 1 - Goku Black (DBL15-02S) -"
+        },
+        {
+            "id": 31100105,
+            "text": "BATTLE 2 - Goku Black (DBL15-02S) -"
+        },
+        {
+            "id": 31100106,
+            "text": "BATTLE 3 - Goku Black (DBL15-02S) -"
+        },
+        {
+            "id": 31100107,
+            "text": "BATTLE 1 - Zamasu (DBL54-04S) -"
+        },
+        {
+            "id": 31100108,
+            "text": "BATTLE 2 - Zamasu (DBL54-04S) -"
+        },
+        {
+            "id": 31100109,
+            "text": "BATTLE 3 - Zamasu (DBL54-04S) -"
+        },
+        {
+            "id": 31100110,
+            "text": "BATTLE 1 - Goku Black (DBL50-03S) -"
+        },
+        {
+            "id": 31100111,
+            "text": "BATTLE 2 - Goku Black (DBL50-03S) -"
+        },
+        {
+            "id": 31100112,
+            "text": "BATTLE 3 - Goku Black (DBL50-03S) -"
+        },
+        {
+            "id": 31100201,
+            "text": "BATTLE 1 - Videl (DBL09-07S) -"
+        },
+        {
+            "id": 31100202,
+            "text": "BATTLE 2 - Videl (DBL09-07S) -"
+        },
+        {
+            "id": 31100203,
+            "text": "BATTLE 3 - Videl (DBL09-07S) -"
+        },
+        {
+            "id": 31100204,
+            "text": "BATTLE 1 - Super Saiyan Trunks (Kid) (DBL05-03S) -"
+        },
+        {
+            "id": 31100205,
+            "text": "BATTLE 2 - Super Saiyan Trunks (Kid) (DBL05-03S) -"
+        },
+        {
+            "id": 31100206,
+            "text": "BATTLE 3 - Super Saiyan Trunks (Kid) (DBL05-03S) -"
+        },
+        {
+            "id": 31100207,
+            "text": "BATTLE 1 - Super Saiyan Goten (Kid) (DBL05-01S) -"
+        },
+        {
+            "id": 31100208,
+            "text": "BATTLE 2 - Super Saiyan Goten (Kid) (DBL05-01S) -"
+        },
+        {
+            "id": 31100209,
+            "text": "BATTLE 3 - Super Saiyan Goten (Kid) (DBL05-01S) -"
+        },
+        {
+            "id": 31100210,
+            "text": "BATTLE 1 - Super Saiyan Gotenks (DBL23-04S) -"
+        },
+        {
+            "id": 31100211,
+            "text": "BATTLE 2 - Super Saiyan Gotenks (DBL23-04S) -"
+        },
+        {
+            "id": 31100212,
+            "text": "BATTLE 3 - Super Saiyan Gotenks (DBL23-04S) -"
+        },
+        {
+            "id": 31100213,
+            "text": "BATTLE 1 - King of the Demon Realm Dabura (DBL06-07S) -"
+        },
+        {
+            "id": 31100214,
+            "text": "BATTLE 2 - King of the Demon Realm Dabura (DBL06-07S) -"
+        },
+        {
+            "id": 31100215,
+            "text": "BATTLE 3 - King of the Demon Realm Dabura (DBL06-07S) -"
+        },
+        {
+            "id": 31100301,
+            "text": "Majin Buu Saga BATTLE 1"
+        },
+        {
+            "id": 31100302,
+            "text": "Majin Buu Saga EX BATTLE 1"
+        },
+        {
+            "id": 31100303,
+            "text": "SUPER HERO BATTLE 1"
+        },
+        {
+            "id": 31100304,
+            "text": "SUPER HERO EX BATTLE 1"
+        },
+        {
+            "id": 31100305,
+            "text": "SUPER HERO BATTLE 2"
+        },
+        {
+            "id": 31100306,
+            "text": "SUPER HERO EX BATTLE 2"
+        },
+        {
+            "id": 31100307,
+            "text": "SUPER HERO BATTLE 3"
+        },
+        {
+            "id": 31100308,
+            "text": "SUPER HERO EX BATTLE 3"
+        },
+        {
+            "id": 31220009,
+            "text": "AWAKENING BATTLE"
+        },
+        {
+            "id": 31220010,
+            "text": "AWAKENING BATTLE 2"
+        },
+        {
+            "id": 31220011,
+            "text": "AWAKENING BATTLE 3"
+        },
+        {
+            "id": 31220012,
+            "text": "AWAKENING BATTLE 4"
+        },
+        {
+            "id": 31220013,
+            "text": "AWAKENING BATTLE 5"
+        },
+        {
+            "id": 31220014,
+            "text": "AWAKENING BATTLE 6"
+        },
+        {
+            "id": 31220015,
+            "text": "AWAKENING BATTLE 1"
+        },
+        {
+            "id": 50000301,
+            "text": "Saiyan Eradication Operation BATTLE 1"
+        },
+        {
+            "id": 50000302,
+            "text": "Saiyan Eradication Operation BATTLE 2"
+        },
+        {
+            "id": 50000303,
+            "text": "Saiyan Eradication Operation BATTLE 3"
+        },
+        {
+            "id": 50007005,
+            "text": "Last Man Standing"
+        },
+        {
+            "id": 58000101,
+            "text": "What's the \"Learn With Trunks!Path to Victory BattleLecture\"?"
+        },
+        {
+            "id": 58000102,
+            "text": "Review the Basics of Forming a Party"
+        },
+        {
+            "id": 58000103,
+            "text": "Recommended Function and Auto Select"
+        },
+        {
+            "id": 58000104,
+            "text": "Take Advantage of the Leader System"
+        },
+        {
+            "id": 58000105,
+            "text": "Master Powering Up Your Characters"
+        },
+        {
+            "id": 58000106,
+            "text": "About Damage"
+        },
+        {
+            "id": 58000107,
+            "text": "Learn All About Rising Rushes!"
+        },
+        {
+            "id": 58000108,
+            "text": "How To Stop Rising Rushes"
+        },
+        {
+            "id": 58000109,
+            "text": "Learn All About Tap Shots!"
+        },
+        {
+            "id": 58000110,
+            "text": "Dealing With Tap Shots"
+        },
+        {
+            "id": 58000111,
+            "text": "Learn All About Tackles!"
+        },
+        {
+            "id": 58000112,
+            "text": "Learn All About Quick Attacks!"
+        },
+        {
+            "id": 58000201,
+            "text": "Strike Cancel Combos"
+        },
+        {
+            "id": 58000202,
+            "text": "Blast Cancel Combos"
+        },
+        {
+            "id": 58000203,
+            "text": "Blast Arts Ki Charge Combos"
+        },
+        {
+            "id": 58000204,
+            "text": "Combos with Ultimate Arts"
+        },
+        {
+            "id": 58000205,
+            "text": "Switching Characters Mid-Combo (Basic)"
+        },
+        {
+            "id": 58000206,
+            "text": "Switching Characters Mid-Combo (Advanced)"
+        },
+        {
+            "id": 58000207,
+            "text": "Switch Characters Effectively"
+        },
+        {
+            "id": 58000208,
+            "text": "About Perfect Vanishes"
+        },
+        {
+            "id": 58000209,
+            "text": "Landing Rising Rushes (Advanced)"
+        },
+        {
+            "id": 58000210,
+            "text": "About Special Cover Changes"
+        },
+        {
+            "id": 58000211,
+            "text": "Dealing With Special Cover Changes"
+        },
+        {
+            "id": 58000212,
+            "text": "About Armor"
+        },
+        {
+            "id": 58000213,
+            "text": "About Counters"
+        },
+        {
+            "id": 58000214,
+            "text": "About Arts Cancels"
+        },
+        {
+            "id": 58000215,
+            "text": "Blast Cancel Counters"
+        },
+        {
+            "id": 59000101,
+            "text": "Get the LEGENDS LIMITED Experience!"
+        },
+        {
+            "id": 100003101,
+            "text": "VS 3rd Form Frieza Lv300"
+        },
+        {
+            "id": 100003102,
+            "text": "VS 3rd Form Frieza Lv600"
+        },
+        {
+            "id": 100003103,
+            "text": "VS 3rd Form Frieza Lv1000"
+        },
+        {
+            "id": 100003104,
+            "text": "VS 3rd Form Frieza Lv1500"
+        },
+        {
+            "id": 100004901,
+            "text": "VS Android #19 Lv300"
+        },
+        {
+            "id": 100004902,
+            "text": "VS Android #19 Lv600"
+        },
+        {
+            "id": 100004903,
+            "text": "VS Android #19 Lv1000"
+        },
+        {
+            "id": 100004904,
+            "text": "VS Android #19 Lv1500"
+        },
+        {
+            "id": 100005201,
+            "text": "VS Trunks (Teen) Lv300"
+        },
+        {
+            "id": 100005202,
+            "text": "VS Trunks (Teen) Lv600"
+        },
+        {
+            "id": 100005203,
+            "text": "VS Trunks (Teen) Lv1000"
+        },
+        {
+            "id": 100005204,
+            "text": "VS Trunks (Teen) Lv1500"
+        },
+        {
+            "id": 100008501,
+            "text": "VS Pan Lv300"
+        },
+        {
+            "id": 100008502,
+            "text": "VS Pan Lv600"
+        },
+        {
+            "id": 100008503,
+            "text": "VS Pan Lv1000"
+        },
+        {
+            "id": 100008504,
+            "text": "VS Pan Lv1500"
+        },
+        {
+            "id": 100008601,
+            "text": "VS First Form Frieza Lv300"
+        },
+        {
+            "id": 100008602,
+            "text": "VS First Form Frieza Lv600"
+        },
+        {
+            "id": 100008603,
+            "text": "VS First Form Frieza Lv1000"
+        },
+        {
+            "id": 100008604,
+            "text": "VS First Form Frieza Lv1500"
+        },
+        {
+            "id": 100008701,
+            "text": "VS Bardock Lv300"
+        },
+        {
+            "id": 100008702,
+            "text": "VS Bardock Lv600"
+        },
+        {
+            "id": 100008703,
+            "text": "VS Bardock Lv1000"
+        },
+        {
+            "id": 100008704,
+            "text": "VS Bardock Lv1500"
+        },
+        {
+            "id": 100010201,
+            "text": "VS Trunks (Kid) Lv300"
+        },
+        {
+            "id": 100010202,
+            "text": "VS Trunks (Kid) Lv600"
+        },
+        {
+            "id": 100010203,
+            "text": "VS Trunks (Kid) Lv1000"
+        },
+        {
+            "id": 100010204,
+            "text": "VS Trunks (Kid) Lv1500"
+        },
+        {
+            "id": 100010301,
+            "text": "VS Goten (Kid) Lv300"
+        },
+        {
+            "id": 100010302,
+            "text": "VS Goten (Kid) Lv600"
+        },
+        {
+            "id": 100010303,
+            "text": "VS Goten (Kid) Lv1000"
+        },
+        {
+            "id": 100010304,
+            "text": "VS Goten (Kid) Lv1500"
+        },
+        {
+            "id": 100012001,
+            "text": "Final Form Frieza (DBL01-41S)"
+        },
+        {
+            "id": 100012002,
+            "text": "Final Form Cooler (DBL08-10S)"
+        },
+        {
+            "id": 100016101,
+            "text": "VS Cabba Lv300"
+        },
+        {
+            "id": 100016102,
+            "text": "VS Cabba Lv600"
+        },
+        {
+            "id": 100016103,
+            "text": "VS Cabba Lv1000"
+        },
+        {
+            "id": 100016104,
+            "text": "VS Cabba Lv1500"
+        },
+        {
+            "id": 100710008,
+            "text": "Hybrid Saiyan NORMAL"
+        },
+        {
+            "id": 100710011,
+            "text": "NORMAL"
+        },
+        {
+            "id": 100710012,
+            "text": "HARD"
+        },
+        {
+            "id": 100710013,
+            "text": "SCREAM"
+        },
+        {
+            "id": 100710026,
+            "text": "Future NORMAL"
+        },
+        {
+            "id": 100720001,
+            "text": "Extreme Battle! 1"
+        },
+        {
+            "id": 100720002,
+            "text": "Extreme Battle! 2"
+        },
+        {
+            "id": 100720003,
+            "text": "Extreme Battle! 3"
+        },
+        {
+            "id": 100720004,
+            "text": "Extreme Battle! 4"
+        },
+        {
+            "id": 100720005,
+            "text": "Extreme Battle! 5"
+        },
+        {
+            "id": 100720006,
+            "text": "Extreme Battle! 6"
+        },
+        {
+            "id": 100720007,
+            "text": "Extreme Battle! 7"
+        },
+        {
+            "id": 100720008,
+            "text": "Extreme Battle! 8"
+        },
+        {
+            "id": 100720009,
+            "text": "Extreme Battle! 9"
+        },
+        {
+            "id": 100720010,
+            "text": "Extreme Battle! 10"
+        },
+        {
+            "id": 100720011,
+            "text": "Extreme Battle! 11"
+        },
+        {
+            "id": 100720012,
+            "text": "Extreme Battle! 12"
+        },
+        {
+            "id": 100720013,
+            "text": "Extreme Battle! 13"
+        },
+        {
+            "id": 100720014,
+            "text": "Extreme Battle! 14"
+        },
+        {
+            "id": 100720015,
+            "text": "Extreme Battle! 15"
+        },
+        {
+            "id": 100720016,
+            "text": "Extreme Battle! 16"
+        },
+        {
+            "id": 100720017,
+            "text": "Extreme Battle! 17"
+        },
+        {
+            "id": 100720018,
+            "text": "Extreme Battle! 18"
+        },
+        {
+            "id": 100720019,
+            "text": "Extreme Battle! 19"
+        },
+        {
+            "id": 100720020,
+            "text": "Extreme Battle! 20"
+        },
+        {
+            "id": 100720021,
+            "text": "Extreme Battle! 21"
+        },
+        {
+            "id": 100720022,
+            "text": "Extreme Battle! 22"
+        },
+        {
+            "id": 100720023,
+            "text": "Extreme Battle! 23"
+        },
+        {
+            "id": 100720024,
+            "text": "Extreme Battle! 24"
+        },
+        {
+            "id": 100720025,
+            "text": "Extreme Battle! 25"
+        },
+        {
+            "id": 100720026,
+            "text": "Extreme Battle! 26"
+        },
+        {
+            "id": 100720027,
+            "text": "Extreme Battle! 27"
+        },
+        {
+            "id": 100720028,
+            "text": "Extreme Battle! 28"
+        },
+        {
+            "id": 100720029,
+            "text": "Extreme Battle! 29"
+        },
+        {
+            "id": 100720030,
+            "text": "Extreme Battle! 30"
+        },
+        {
+            "id": 100720031,
+            "text": "Extreme Battle! 31"
+        },
+        {
+            "id": 100720032,
+            "text": "Extreme Battle! 32"
+        },
+        {
+            "id": 100720033,
+            "text": "Extreme Battle! 33"
+        },
+        {
+            "id": 100720034,
+            "text": "Extreme Battle! 34"
+        },
+        {
+            "id": 100720035,
+            "text": "Extreme Battle! 35"
+        },
+        {
+            "id": 100720036,
+            "text": "Extreme Battle! 36"
+        },
+        {
+            "id": 100720037,
+            "text": "Extreme Battle! 37"
+        },
+        {
+            "id": 100720038,
+            "text": "Extreme Battle! 38"
+        },
+        {
+            "id": 100720039,
+            "text": "Extreme Battle! 39"
+        },
+        {
+            "id": 100720040,
+            "text": "Extreme Battle! 40"
+        },
+        {
+            "id": 100720041,
+            "text": "Extreme Battle! 41"
+        },
+        {
+            "id": 100720042,
+            "text": "Extreme Battle! 42"
+        },
+        {
+            "id": 100720043,
+            "text": "Extreme Battle! 43"
+        },
+        {
+            "id": 100720044,
+            "text": "Extreme Battle! 44"
+        },
+        {
+            "id": 100720045,
+            "text": "Extreme Battle! 45"
+        },
+        {
+            "id": 100720046,
+            "text": "Extreme Battle! 46"
+        },
+        {
+            "id": 100720047,
+            "text": "Extreme Battle! 47"
+        },
+        {
+            "id": 100720048,
+            "text": "Extreme Battle! 48"
+        },
+        {
+            "id": 100720049,
+            "text": "Extreme Battle! 49"
+        },
+        {
+            "id": 100720050,
+            "text": "Extreme Battle! 50"
+        },
+        {
+            "id": 100720051,
+            "text": "Extreme Battle! 51"
+        },
+        {
+            "id": 100720052,
+            "text": "Extreme Battle! 52"
+        },
+        {
+            "id": 100720053,
+            "text": "Extreme Battle! 53"
+        },
+        {
+            "id": 100720054,
+            "text": "Memory Battle"
+        },
+        {
+            "id": 100740002,
+            "text": "Blazing Battle! 1"
+        },
+        {
+            "id": 100740003,
+            "text": "Blazing Battle! 2"
+        },
+        {
+            "id": 100740004,
+            "text": "Blazing Battle! 3"
+        },
+        {
+            "id": 100740005,
+            "text": "Blazing Battle! 4"
+        },
+        {
+            "id": 100740006,
+            "text": "Blazing Battle! 5"
+        },
+        {
+            "id": 100740007,
+            "text": "Blazing Battle! 6"
+        },
+        {
+            "id": 100740008,
+            "text": "Blazing Battle! 7"
+        },
+        {
+            "id": 100750001,
+            "text": "Supreme Boss Rush 1"
+        },
+        {
+            "id": 100750002,
+            "text": "Supreme Boss Rush 2"
+        },
+        {
+            "id": 100750003,
+            "text": "Supreme Boss Rush 3"
+        },
+        {
+            "id": 100750004,
+            "text": "Supreme Boss Rush 4"
+        },
+        {
+            "id": 100750005,
+            "text": "Supreme Boss Rush 5"
+        },
+        {
+            "id": 100750006,
+            "text": "Supreme Boss Rush 6"
+        },
+        {
+            "id": 100750007,
+            "text": "Supreme Boss Rush 7"
+        },
+        {
+            "id": 100750008,
+            "text": "Supreme Boss Rush 8"
+        },
+        {
+            "id": 100750009,
+            "text": "Supreme Boss Rush 9"
+        },
+        {
+            "id": 100750010,
+            "text": "Supreme Boss Rush 10"
+        },
+        {
+            "id": 100750011,
+            "text": "Supreme Boss Rush 11"
+        },
+        {
+            "id": 100750012,
+            "text": "Supreme Boss Rush 12"
+        },
+        {
+            "id": 100750013,
+            "text": "Supreme Boss Rush 13"
+        },
+        {
+            "id": 100750014,
+            "text": "Supreme Boss Rush 14"
+        },
+        {
+            "id": 100750015,
+            "text": "Supreme Boss Rush 15"
+        },
+        {
+            "id": 100750016,
+            "text": "Supreme Boss Rush 16"
+        },
+        {
+            "id": 100750017,
+            "text": "Supreme Boss Rush 17"
+        },
+        {
+            "id": 100750018,
+            "text": "Supreme Boss Rush 18"
+        },
+        {
+            "id": 100750019,
+            "text": "Supreme Boss Rush 19"
+        },
+        {
+            "id": 100750020,
+            "text": "Supreme Boss Rush 20"
+        },
+        {
+            "id": 100750021,
+            "text": "Supreme Boss Rush 21"
+        },
+        {
+            "id": 100750022,
+            "text": "Supreme Boss Rush 22"
+        },
+        {
+            "id": 100750023,
+            "text": "Supreme Boss Rush 23"
+        },
+        {
+            "id": 100750024,
+            "text": "Supreme Boss Rush 24"
+        },
+        {
+            "id": 100750025,
+            "text": "Supreme Boss Rush 25"
+        },
+        {
+            "id": 100750026,
+            "text": "Supreme Boss Rush 26"
+        },
+        {
+            "id": 100750027,
+            "text": "Supreme Boss Rush 27"
+        },
+        {
+            "id": 100750028,
+            "text": "Supreme Boss Rush 28"
+        },
+        {
+            "id": 100750029,
+            "text": "Supreme Boss Rush 29"
+        },
+        {
+            "id": 100750030,
+            "text": "Supreme Boss Rush 30"
+        },
+        {
+            "id": 100750031,
+            "text": "Supreme Boss Rush 31"
+        },
+        {
+            "id": 100750032,
+            "text": "Supreme Boss Rush 32"
+        },
+        {
+            "id": 100750033,
+            "text": "Supreme Boss Rush 33"
+        },
+        {
+            "id": 100750034,
+            "text": "Supreme Boss Rush 34"
+        },
+        {
+            "id": 100750035,
+            "text": "Supreme Boss Rush 35"
+        },
+        {
+            "id": 100750036,
+            "text": "Supreme Boss Rush 36"
+        },
+        {
+            "id": 100750037,
+            "text": "Supreme Boss Rush 37"
+        },
+        {
+            "id": 100750038,
+            "text": "Supreme Boss Rush 38"
+        },
+        {
+            "id": 100750039,
+            "text": "Supreme Boss Rush 39"
+        },
+        {
+            "id": 100750040,
+            "text": "Supreme Boss Rush 40"
+        },
+        {
+            "id": 100750041,
+            "text": "Supreme Boss Rush 41"
+        },
+        {
+            "id": 100750042,
+            "text": "Supreme Boss Rush 42"
+        },
+        {
+            "id": 100780001,
+            "text": "Festival Faceoff 1"
+        },
+        {
+            "id": 100780002,
+            "text": "Festival Faceoff 2"
+        },
+        {
+            "id": 100780003,
+            "text": "Festival Faceoff 3"
+        },
+        {
+            "id": 100780004,
+            "text": "Festival Faceoff 4"
+        },
+        {
+            "id": 100780005,
+            "text": "Festival Faceoff 5"
+        },
+        {
+            "id": 100780006,
+            "text": "Festival Faceoff 6"
+        },
+        {
+            "id": 100780007,
+            "text": "Festival Faceoff 7"
+        },
+        {
+            "id": 100780008,
+            "text": "Festival Faceoff 8"
+        },
+        {
+            "id": 100780009,
+            "text": "Festival Faceoff 9"
+        },
+        {
+            "id": 100780010,
+            "text": "Festival Faceoff 10"
+        },
+        {
+            "id": 100780011,
+            "text": "Festival Faceoff 11"
+        },
+        {
+            "id": 100780012,
+            "text": "Festival Faceoff 12"
+        },
+        {
+            "id": 100780013,
+            "text": "Festival Faceoff 13"
+        },
+        {
+            "id": 100780014,
+            "text": "Festival Faceoff 14"
+        },
+        {
+            "id": 100780015,
+            "text": "Festival Faceoff 15"
+        },
+        {
+            "id": 100780016,
+            "text": "Festival Faceoff 16"
+        },
+        {
+            "id": 100780017,
+            "text": "Festival Faceoff 17"
+        },
+        {
+            "id": 100780018,
+            "text": "Festival Faceoff 18"
+        },
+        {
+            "id": 100780019,
+            "text": "Festival Faceoff 19"
+        },
+        {
+            "id": 100780020,
+            "text": "Festival Faceoff 20"
+        },
+        {
+            "id": 100780021,
+            "text": "Festival Faceoff 21"
+        },
+        {
+            "id": 100780022,
+            "text": "Festival Faceoff 22"
+        },
+        {
+            "id": 100780023,
+            "text": "Festival Faceoff 23"
+        },
+        {
+            "id": 100780024,
+            "text": "Festival Faceoff 24"
+        },
+        {
+            "id": 100780025,
+            "text": "Festival Faceoff 25"
+        },
+        {
+            "id": 100780026,
+            "text": "Festival Faceoff 26"
+        },
+        {
+            "id": 100780027,
+            "text": "Festival Faceoff 27"
+        },
+        {
+            "id": 100780028,
+            "text": "Festival Faceoff 28"
+        },
+        {
+            "id": 100780029,
+            "text": "Festival Faceoff 29"
+        },
+        {
+            "id": 100780030,
+            "text": "Festival Faceoff 30"
+        },
+        {
+            "id": 100780031,
+            "text": "Festival Faceoff 31"
+        },
+        {
+            "id": 100780032,
+            "text": "Festival Faceoff 32"
+        },
+        {
+            "id": 100780033,
+            "text": "Festival Faceoff 33"
+        },
+        {
+            "id": 100780034,
+            "text": "Festival Faceoff 34"
+        },
+        {
+            "id": 100780035,
+            "text": "Festival Faceoff 35"
+        },
+        {
+            "id": 100780036,
+            "text": "Festival Faceoff 36"
+        },
+        {
+            "id": 100780037,
+            "text": "Festival Faceoff 37"
+        },
+        {
+            "id": 100780038,
+            "text": "Festival Faceoff 38"
+        },
+        {
+            "id": 100780039,
+            "text": "Festival Faceoff 39"
+        },
+        {
+            "id": 100780040,
+            "text": "Festival Faceoff 40"
+        },
+        {
+            "id": 100780041,
+            "text": "Festival Faceoff 41"
+        },
+        {
+            "id": 100780042,
+            "text": "Festival Faceoff 42"
+        },
+        {
+            "id": 100780043,
+            "text": "Festival Faceoff 43"
+        },
+        {
+            "id": 100780044,
+            "text": "Festival Faceoff 44"
+        },
+        {
+            "id": 100780045,
+            "text": "Festival Faceoff 45"
+        },
+        {
+            "id": 100780046,
+            "text": "Festival Faceoff 46"
+        },
+        {
+            "id": 100780047,
+            "text": "Festival Faceoff 47"
+        },
+        {
+            "id": 100780048,
+            "text": "Festival Faceoff 48"
+        },
+        {
+            "id": 100780049,
+            "text": "Festival Faceoff 49"
+        },
+        {
+            "id": 100780050,
+            "text": "Festival Faceoff 50"
+        },
+        {
+            "id": 100780051,
+            "text": "Festival Faceoff 51"
+        },
+        {
+            "id": 100780052,
+            "text": "Festival Faceoff 52"
+        },
+        {
+            "id": 100780053,
+            "text": "Festival Faceoff 53"
+        },
+        {
+            "id": 100780054,
+            "text": "Festival Faceoff 54"
+        },
+        {
+            "id": 100801101,
+            "text": "Saiyan"
+        },
+        {
+            "id": 100801102,
+            "text": "Regeneration"
+        },
+        {
+            "id": 100801103,
+            "text": "Hybrid Saiyan"
+        },
+        {
+            "id": 100801201,
+            "text": "Lineage of Evil"
+        },
+        {
+            "id": 100801202,
+            "text": "Frieza Force"
+        },
+        {
+            "id": 100801203,
+            "text": "Future"
+        },
+        {
+            "id": 100802201,
+            "text": "Sagas From the Movies"
+        },
+        {
+            "id": 100802203,
+            "text": "Girls"
+        },
+        {
+            "id": 100805201,
+            "text": "Powerful Opponent"
+        },
+        {
+            "id": 100805202,
+            "text": "Super Saiyan"
+        },
+        {
+            "id": 100806201,
+            "text": "Dragon Ball Saga"
+        },
+        {
+            "id": 100807103,
+            "text": "Android"
+        },
+        {
+            "id": 100807201,
+            "text": "Majin Buu Saga (Z)"
+        },
+        {
+            "id": 100809101,
+            "text": "GT"
+        },
+        {
+            "id": 100810101,
+            "text": "Fusion Warrior"
+        },
+        {
+            "id": 100900701,
+            "text": "Let's Fight!"
+        },
+        {
+            "id": 100900702,
+            "text": "Let's Fight! BATTLE 2"
+        },
+        {
+            "id": 100900703,
+            "text": "Let's Fight! BATTLE 3"
+        },
+        {
+            "id": 100900801,
+            "text": "Let's Work Out!"
+        },
+        {
+            "id": 100900901,
+            "text": "Select One Every Day! Energy Ticket B"
+        },
+        {
+            "id": 100900902,
+            "text": "Select One Every Day! Energy Ticket A"
+        },
+        {
+            "id": 100900903,
+            "text": "Select One Every Day! Silver Bell"
+        },
+        {
+            "id": 100901601,
+            "text": "Soul [RED] Job Requests"
+        },
+        {
+            "id": 100901602,
+            "text": "Soul [YEL] Job Requests"
+        },
+        {
+            "id": 100901603,
+            "text": "Soul [PUR] Job Requests"
+        },
+        {
+            "id": 100901604,
+            "text": "Soul [GRN] Job Requests"
+        },
+        {
+            "id": 100901605,
+            "text": "Soul [BLU] Job Requests"
+        },
+        {
+            "id": 100901701,
+            "text": "Slot Remover"
+        },
+        {
+            "id": 100901702,
+            "text": "EN Tank ＋10"
+        },
+        {
+            "id": 100901703,
+            "text": "Skip Ticket"
+        },
+        {
+            "id": 100901704,
+            "text": "Soul Exchange Medal"
+        },
+        {
+            "id": 100901705,
+            "text": "Slot Remover ×2"
+        },
+        {
+            "id": 100901706,
+            "text": "EN Tank ＋50"
+        },
+        {
+            "id": 100901707,
+            "text": "Skip Ticket ×50"
+        },
+        {
+            "id": 100901708,
+            "text": "Soul Exchange Medal ×3"
+        },
+        {
+            "id": 100901709,
+            "text": "Slot Remover ×3"
+        },
+        {
+            "id": 100901710,
+            "text": "Soul Exchange Medal ×2"
+        },
+        {
+            "id": 100902001,
+            "text": "Skip Ticket ×30 & EN Tank ＋30"
+        },
+        {
+            "id": 100902004,
+            "text": "SPARKING Medal"
+        },
+        {
+            "id": 100902201,
+            "text": "Skip Ticket ×100 & EN Tank ＋100"
+        },
+        {
+            "id": 100902202,
+            "text": "Soul Exchange Medal ×5"
+        },
+        {
+            "id": 100902203,
+            "text": "Slot Remover ×10"
+        },
+        {
+            "id": 100902204,
+            "text": "SPARKING Medal ×2"
+        },
+        {
+            "id": 100902301,
+            "text": "Rare Fragment ×5"
+        },
+        {
+            "id": 100902302,
+            "text": "Fragment ×8"
+        },
+        {
+            "id": 100902601,
+            "text": "Z Power \"Powerful Opponent\""
+        },
+        {
+            "id": 100902602,
+            "text": "Z Power \"Saiyan\""
+        },
+        {
+            "id": 100902603,
+            "text": "Slot Remover ×5"
+        },
+        {
+            "id": 100902604,
+            "text": "Soul Exchange Medal ×4"
+        },
+        {
+            "id": 100902605,
+            "text": "Skip Ticket ×50 & EN Tank ＋50"
+        },
+        {
+            "id": 100902701,
+            "text": "Z Power \"Sagas From the Movies\""
+        },
+        {
+            "id": 100902702,
+            "text": "Z Power \"Son Family\""
+        },
+        {
+            "id": 100902801,
+            "text": "Z Power \"Vegeta Clan\""
+        },
+        {
+            "id": 100902802,
+            "text": "Z Power \"Future\""
+        },
+        {
+            "id": 100902901,
+            "text": "Z Power \"Universe Survival Saga (S)\""
+        },
+        {
+            "id": 100902902,
+            "text": "Z Power \"Fusion Warrior\""
+        },
+        {
+            "id": 100903001,
+            "text": "Z Power \"Lineage of Evil\""
+        },
+        {
+            "id": 100903002,
+            "text": "Z Power \"Saiyan\""
+        },
+        {
+            "id": 100903003,
+            "text": "Slot Remover ×5"
+        },
+        {
+            "id": 100903004,
+            "text": "Soul Exchange Medal ×4"
+        },
+        {
+            "id": 100903005,
+            "text": "Skip Ticket ×50 & EN Tank ＋50"
+        },
+        {
+            "id": 100903101,
+            "text": "Z Power \"Android\""
+        },
+        {
+            "id": 100903102,
+            "text": "Z Power \"Regeneration\""
+        },
+        {
+            "id": 100910201,
+            "text": "BATTLE - Multi-Z Power 50 -"
+        },
+        {
+            "id": 100910202,
+            "text": "BATTLE - Multi-Z Power 50 (SPARKING) -"
+        },
+        {
+            "id": 100910203,
+            "text": "BATTLE - Multi-Z Power 50 (EXTREME) -"
+        },
+        {
+            "id": 100920101,
+            "text": "Patrol Zone 1"
+        },
+        {
+            "id": 100920102,
+            "text": "Patrol Zone 2"
+        },
+        {
+            "id": 100920103,
+            "text": "Patrol Zone 3"
+        },
+        {
+            "id": 100920104,
+            "text": "Patrol Zone 4"
+        },
+        {
+            "id": 100920105,
+            "text": "Patrol Zone 5"
+        },
+        {
+            "id": 100920106,
+            "text": "Patrol Zone 6"
+        },
+        {
+            "id": 100920107,
+            "text": "Patrol Zone 7"
+        },
+        {
+            "id": 100920108,
+            "text": "Patrol Zone 8"
+        },
+        {
+            "id": 100920109,
+            "text": "Patrol Zone 9"
+        },
+        {
+            "id": 100920110,
+            "text": "Patrol Zone 10"
+        },
+        {
+            "id": 100920111,
+            "text": "Patrol Zone 11"
+        },
+        {
+            "id": 100920112,
+            "text": "Patrol Zone 12"
+        },
+        {
+            "id": 100920113,
+            "text": "Patrol Zone 13"
+        },
+        {
+            "id": 100920114,
+            "text": "Patrol Zone 14"
+        },
+        {
+            "id": 100920601,
+            "text": "BATTLE - EN Tank -"
+        },
+        {
+            "id": 100920602,
+            "text": "BATTLE - Skip Ticket -"
+        },
+        {
+            "id": 100930101,
+            "text": "CHAMPION BONUS"
+        },
+        {
+            "id": 100940101,
+            "text": "BATTLE - 10 Chrono Crystals -"
+        },
+        {
+            "id": 100940102,
+            "text": "BATTLE - 20 Chrono Crystals -"
+        },
+        {
+            "id": 100940103,
+            "text": "BATTLE - 30 Chrono Crystals -"
+        },
+        {
+            "id": 100940105,
+            "text": "BATTLE - 50 Chrono Crystals -"
+        },
+        {
+            "id": 100940107,
+            "text": "BATTLE - 70 Chrono Crystals -"
+        },
+        {
+            "id": 100940108,
+            "text": "BATTLE - 80 Chrono Crystals -"
+        },
+        {
+            "id": 100940110,
+            "text": "BATTLE - 100 Chrono Crystals -"
+        },
+        {
+            "id": 110710008,
+            "text": "Hybrid Saiyan HARD"
+        },
+        {
+            "id": 110710026,
+            "text": "Future HARD"
+        },
+        {
+            "id": 120710008,
+            "text": "Hybrid Saiyan SCREAM"
+        },
+        {
+            "id": 120710026,
+            "text": "Future SCREAM"
+        },
+        {
+            "id": 130710008,
+            "text": "Hybrid Saiyan DESPAIR"
+        },
+        {
+            "id": 130710026,
+            "text": "Future DESPAIR"
+        },
+        {
+            "id": 302070001,
+            "text": "BATTLE - Guldo -"
+        },
+        {
+            "id": 302070002,
+            "text": "EX BATTLE - Guldo -"
+        },
+        {
+            "id": 302070003,
+            "text": "BATTLE - Burter -"
+        },
+        {
+            "id": 302070004,
+            "text": "EX BATTLE - Burter -"
+        },
+        {
+            "id": 302070005,
+            "text": "BATTLE - Recoome -"
+        },
+        {
+            "id": 302070006,
+            "text": "EX BATTLE - Recoome -"
+        },
+        {
+            "id": 302070007,
+            "text": "BATTLE - Jeice -"
+        },
+        {
+            "id": 302070008,
+            "text": "EX BATTLE - Jeice -"
+        },
+        {
+            "id": 302070009,
+            "text": "BATTLE - Captain Ginyu -"
+        },
+        {
+            "id": 302070010,
+            "text": "EX BATTLE - Captain Ginyu -"
+        },
+        {
+            "id": 400030100,
+            "text": "Mountains 1"
+        },
+        {
+            "id": 400030101,
+            "text": "Mountains 1-1"
+        },
+        {
+            "id": 400030102,
+            "text": "Mountains 1-2"
+        },
+        {
+            "id": 400030103,
+            "text": "Mountains 1-3"
+        },
+        {
+            "id": 400030104,
+            "text": "Mountains 1-4"
+        },
+        {
+            "id": 400030105,
+            "text": "Mountains 1-5"
+        },
+        {
+            "id": 400030200,
+            "text": "Mountains 2"
+        },
+        {
+            "id": 400030201,
+            "text": "Mountains 2-1"
+        },
+        {
+            "id": 400030202,
+            "text": "Mountains 2-2"
+        },
+        {
+            "id": 400030203,
+            "text": "Mountains 2-3"
+        },
+        {
+            "id": 400030204,
+            "text": "Mountains 2-4"
+        },
+        {
+            "id": 400030205,
+            "text": "Mountains 2-5"
+        },
+        {
+            "id": 400030300,
+            "text": "Mountains 3"
+        },
+        {
+            "id": 400030301,
+            "text": "Mountains 3-1"
+        },
+        {
+            "id": 400030302,
+            "text": "Mountains 3-2"
+        },
+        {
+            "id": 400030303,
+            "text": "Mountains 3-3"
+        },
+        {
+            "id": 400030304,
+            "text": "Mountains 3-4"
+        },
+        {
+            "id": 400030305,
+            "text": "Mountains 3-5"
+        },
+        {
+            "id": 400030400,
+            "text": "Mountains 4"
+        },
+        {
+            "id": 400030401,
+            "text": "Mountains 4-1"
+        },
+        {
+            "id": 400030402,
+            "text": "Mountains 4-2"
+        },
+        {
+            "id": 400030403,
+            "text": "Mountains 4-3"
+        },
+        {
+            "id": 400030404,
+            "text": "Mountains 4-4"
+        },
+        {
+            "id": 400030405,
+            "text": "Mountains 4-5"
+        },
+        {
+            "id": 400030500,
+            "text": "Mountains 5"
+        },
+        {
+            "id": 400030501,
+            "text": "Mountains 5-1"
+        },
+        {
+            "id": 400030502,
+            "text": "Mountains 5-2"
+        },
+        {
+            "id": 400030503,
+            "text": "Mountains 5-3"
+        },
+        {
+            "id": 400030504,
+            "text": "Mountains 5-4"
+        },
+        {
+            "id": 400030505,
+            "text": "Mountains 5-5"
+        },
+        {
+            "id": 400030600,
+            "text": "Mountains 6"
+        },
+        {
+            "id": 400030601,
+            "text": "Mountains 6-1"
+        },
+        {
+            "id": 400030602,
+            "text": "Mountains 6-2"
+        },
+        {
+            "id": 400030603,
+            "text": "Mountains 6-3"
+        },
+        {
+            "id": 400030604,
+            "text": "Mountains 6-4"
+        },
+        {
+            "id": 400030605,
+            "text": "Mountains 6-5"
+        },
+        {
+            "id": 400030700,
+            "text": "Mountains 7"
+        },
+        {
+            "id": 400030701,
+            "text": "Mountains 7-1"
+        },
+        {
+            "id": 400030702,
+            "text": "Mountains 7-2"
+        },
+        {
+            "id": 400030703,
+            "text": "Mountains 7-3"
+        },
+        {
+            "id": 400030704,
+            "text": "Mountains 7-4"
+        },
+        {
+            "id": 400030705,
+            "text": "Mountains 7-5"
+        },
+        {
+            "id": 400030800,
+            "text": "Mountains 8"
+        },
+        {
+            "id": 400030801,
+            "text": "Mountains 8-1"
+        },
+        {
+            "id": 400030802,
+            "text": "Mountains 8-2"
+        },
+        {
+            "id": 400030803,
+            "text": "Mountains 8-3"
+        },
+        {
+            "id": 400030804,
+            "text": "Mountains 8-4"
+        },
+        {
+            "id": 400030805,
+            "text": "Mountains 8-5"
+        },
+        {
+            "id": 400030900,
+            "text": "Mountains 9"
+        },
+        {
+            "id": 400030901,
+            "text": "Mountains 9-1"
+        },
+        {
+            "id": 400030902,
+            "text": "Mountains 9-2"
+        },
+        {
+            "id": 400030903,
+            "text": "Mountains 9-3"
+        },
+        {
+            "id": 400030904,
+            "text": "Mountains 9-4"
+        },
+        {
+            "id": 400030905,
+            "text": "Mountains 9-5"
+        },
+        {
+            "id": 410010100,
+            "text": "Urban District 1"
+        },
+        {
+            "id": 410010101,
+            "text": "Urban District 1-1"
+        },
+        {
+            "id": 410010102,
+            "text": "Urban District 1-2"
+        },
+        {
+            "id": 410010103,
+            "text": "Urban District 1-3"
+        },
+        {
+            "id": 410010104,
+            "text": "Urban District 1-4"
+        },
+        {
+            "id": 410010105,
+            "text": "Urban District 1-5"
+        },
+        {
+            "id": 410010200,
+            "text": "Urban District 2"
+        },
+        {
+            "id": 410010201,
+            "text": "Urban District 2-1"
+        },
+        {
+            "id": 410010202,
+            "text": "Urban District 2-2"
+        },
+        {
+            "id": 410010203,
+            "text": "Urban District 2-3"
+        },
+        {
+            "id": 410010204,
+            "text": "Urban District 2-4"
+        },
+        {
+            "id": 410010205,
+            "text": "Urban District 2-5"
+        },
+        {
+            "id": 410010300,
+            "text": "Urban District 3"
+        },
+        {
+            "id": 410010301,
+            "text": "Urban District 3-1"
+        },
+        {
+            "id": 410010302,
+            "text": "Urban District 3-2"
+        },
+        {
+            "id": 410010303,
+            "text": "Urban District 3-3"
+        },
+        {
+            "id": 410010304,
+            "text": "Urban District 3-4"
+        },
+        {
+            "id": 410010305,
+            "text": "Urban District 3-5"
+        },
+        {
+            "id": 410010400,
+            "text": "Urban District 4"
+        },
+        {
+            "id": 410010401,
+            "text": "Urban District 4-1"
+        },
+        {
+            "id": 410010402,
+            "text": "Urban District 4-2"
+        },
+        {
+            "id": 410010403,
+            "text": "Urban District 4-3"
+        },
+        {
+            "id": 410010404,
+            "text": "Urban District 4-4"
+        },
+        {
+            "id": 410010405,
+            "text": "Urban District 4-5"
+        },
+        {
+            "id": 410010500,
+            "text": "Urban District 5"
+        },
+        {
+            "id": 410010501,
+            "text": "Urban District 5-1"
+        },
+        {
+            "id": 410010502,
+            "text": "Urban District 5-2"
+        },
+        {
+            "id": 410010503,
+            "text": "Urban District 5-3"
+        },
+        {
+            "id": 410010504,
+            "text": "Urban District 5-4"
+        },
+        {
+            "id": 410010505,
+            "text": "Urban District 5-5"
+        },
+        {
+            "id": 410010600,
+            "text": "Urban District 6"
+        },
+        {
+            "id": 410010601,
+            "text": "Urban District 6-1"
+        },
+        {
+            "id": 410010602,
+            "text": "Urban District 6-2"
+        },
+        {
+            "id": 410010603,
+            "text": "Urban District 6-3"
+        },
+        {
+            "id": 410010604,
+            "text": "Urban District 6-4"
+        },
+        {
+            "id": 410010605,
+            "text": "Urban District 6-5"
+        },
+        {
+            "id": 410010700,
+            "text": "Urban District 7"
+        },
+        {
+            "id": 410010701,
+            "text": "Urban District 7-1"
+        },
+        {
+            "id": 410010702,
+            "text": "Urban District 7-2"
+        },
+        {
+            "id": 410010703,
+            "text": "Urban District 7-3"
+        },
+        {
+            "id": 410010704,
+            "text": "Urban District 7-4"
+        },
+        {
+            "id": 410010705,
+            "text": "Urban District 7-5"
+        },
+        {
+            "id": 410010800,
+            "text": "Urban District 8"
+        },
+        {
+            "id": 410010801,
+            "text": "Urban District 8-1"
+        },
+        {
+            "id": 410010802,
+            "text": "Urban District 8-2"
+        },
+        {
+            "id": 410010803,
+            "text": "Urban District 8-3"
+        },
+        {
+            "id": 410010804,
+            "text": "Urban District 8-4"
+        },
+        {
+            "id": 410010805,
+            "text": "Urban District 8-5"
+        },
+        {
+            "id": 410010900,
+            "text": "Urban District 9"
+        },
+        {
+            "id": 410010901,
+            "text": "Urban District 9-1"
+        },
+        {
+            "id": 410010902,
+            "text": "Urban District 9-2"
+        },
+        {
+            "id": 410010903,
+            "text": "Urban District 9-3"
+        },
+        {
+            "id": 410010904,
+            "text": "Urban District 9-4"
+        },
+        {
+            "id": 410010905,
+            "text": "Urban District 9-5"
+        },
+        {
+            "id": 410040100,
+            "text": "Grassy Plains 1"
+        },
+        {
+            "id": 410040101,
+            "text": "Grassy Plains 1-1"
+        },
+        {
+            "id": 410040102,
+            "text": "Grassy Plains 1-2"
+        },
+        {
+            "id": 410040103,
+            "text": "Grassy Plains 1-3"
+        },
+        {
+            "id": 410040104,
+            "text": "Grassy Plains 1-4"
+        },
+        {
+            "id": 410040105,
+            "text": "Grassy Plains 1-5"
+        },
+        {
+            "id": 410040200,
+            "text": "Grassy Plains 2"
+        },
+        {
+            "id": 410040201,
+            "text": "Grassy Plains 2-1"
+        },
+        {
+            "id": 410040202,
+            "text": "Grassy Plains 2-2"
+        },
+        {
+            "id": 410040203,
+            "text": "Grassy Plains 2-3"
+        },
+        {
+            "id": 410040204,
+            "text": "Grassy Plains 2-4"
+        },
+        {
+            "id": 410040205,
+            "text": "Grassy Plains 2-5"
+        },
+        {
+            "id": 410040300,
+            "text": "Grassy Plains 3"
+        },
+        {
+            "id": 410040301,
+            "text": "Grassy Plains 3-1"
+        },
+        {
+            "id": 410040302,
+            "text": "Grassy Plains 3-2"
+        },
+        {
+            "id": 410040303,
+            "text": "Grassy Plains 3-3"
+        },
+        {
+            "id": 410040304,
+            "text": "Grassy Plains 3-4"
+        },
+        {
+            "id": 410040305,
+            "text": "Grassy Plains 3-5"
+        },
+        {
+            "id": 410040400,
+            "text": "Grassy Plains 4"
+        },
+        {
+            "id": 410040401,
+            "text": "Grassy Plains 4-1"
+        },
+        {
+            "id": 410040402,
+            "text": "Grassy Plains 4-2"
+        },
+        {
+            "id": 410040403,
+            "text": "Grassy Plains 4-3"
+        },
+        {
+            "id": 410040404,
+            "text": "Grassy Plains 4-4"
+        },
+        {
+            "id": 410040405,
+            "text": "Grassy Plains 4-5"
+        },
+        {
+            "id": 410040500,
+            "text": "Grassy Plains 5"
+        },
+        {
+            "id": 410040501,
+            "text": "Grassy Plains 5-1"
+        },
+        {
+            "id": 410040502,
+            "text": "Grassy Plains 5-2"
+        },
+        {
+            "id": 410040503,
+            "text": "Grassy Plains 5-3"
+        },
+        {
+            "id": 410040504,
+            "text": "Grassy Plains 5-4"
+        },
+        {
+            "id": 410040505,
+            "text": "Grassy Plains 5-5"
+        },
+        {
+            "id": 410040600,
+            "text": "Grassy Plains 6"
+        },
+        {
+            "id": 410040601,
+            "text": "Grassy Plains 6-1"
+        },
+        {
+            "id": 410040602,
+            "text": "Grassy Plains 6-2"
+        },
+        {
+            "id": 410040603,
+            "text": "Grassy Plains 6-3"
+        },
+        {
+            "id": 410040604,
+            "text": "Grassy Plains 6-4"
+        },
+        {
+            "id": 410040605,
+            "text": "Grassy Plains 6-5"
+        },
+        {
+            "id": 410040700,
+            "text": "Grassy Plains 7"
+        },
+        {
+            "id": 410040701,
+            "text": "Grassy Plains 7-1"
+        },
+        {
+            "id": 410040702,
+            "text": "Grassy Plains 7-2"
+        },
+        {
+            "id": 410040703,
+            "text": "Grassy Plains 7-3"
+        },
+        {
+            "id": 410040704,
+            "text": "Grassy Plains 7-4"
+        },
+        {
+            "id": 410040705,
+            "text": "Grassy Plains 7-5"
+        },
+        {
+            "id": 410040800,
+            "text": "Grassy Plains 8"
+        },
+        {
+            "id": 410040801,
+            "text": "Grassy Plains 8-1"
+        },
+        {
+            "id": 410040802,
+            "text": "Grassy Plains 8-2"
+        },
+        {
+            "id": 410040803,
+            "text": "Grassy Plains 8-3"
+        },
+        {
+            "id": 410040804,
+            "text": "Grassy Plains 8-4"
+        },
+        {
+            "id": 410040805,
+            "text": "Grassy Plains 8-5"
+        },
+        {
+            "id": 410040900,
+            "text": "Z Power Battle"
+        },
+        {
+            "id": 410040901,
+            "text": "Grassy Plains 9-1"
+        },
+        {
+            "id": 410040902,
+            "text": "Grassy Plains 9-2"
+        },
+        {
+            "id": 410040903,
+            "text": "Grassy Plains 9-3"
+        },
+        {
+            "id": 410040904,
+            "text": "Grassy Plains 9-4"
+        },
+        {
+            "id": 410040905,
+            "text": "Grassy Plains 9-5"
+        },
+        {
+            "id": 420040100,
+            "text": "Desert City 1"
+        },
+        {
+            "id": 420040201,
+            "text": "Desert City 2-1"
+        },
+        {
+            "id": 420040202,
+            "text": "Desert City 2-2"
+        },
+        {
+            "id": 420040300,
+            "text": "Desert City 3"
+        },
+        {
+            "id": 420040400,
+            "text": "Desert City 4"
+        },
+        {
+            "id": 420040500,
+            "text": "Desert City 5"
+        },
+        {
+            "id": 420040600,
+            "text": "Desert City 6"
+        }
+    ]
+}
