@@ -167,7 +167,7 @@ class API(object):
 		box=self.GetPresentBoxRequest(1)
 		_presentBoxIds=[]
 		for x in box['_presentBoxList']:
-			_presentBoxIds.append(x._presentBoxId)
+			_presentBoxIds.append(x['_presentBoxId'])
 		if len(_presentBoxIds)>=1:
 			self.ReceivePresentBoxRequest(_presentBoxIds)
 
