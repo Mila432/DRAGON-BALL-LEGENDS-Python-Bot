@@ -860,7 +860,7 @@ class API(object):
 		self.GetVersionRequest()
 		self.GetStoryTopInfoRequest()
 		self.ExecuteShopItemGashaRequest(_gashaId=4000100,_platformCode=self._platformId,_romType=self._romType)
-		self.getallmail()
+		#self.getallmail()
 
 	def UserSetting(self,_languageId):
 		return Scream.UserSetting(_languageId)
