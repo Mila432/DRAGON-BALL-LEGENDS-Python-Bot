@@ -22,7 +22,7 @@ class codedbots(object):
 		if r.status_code==200:
 			return json.loads(r.content)
 		else:
-			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content.decode()))
 			time.sleep(60)
 			exit(1)
 
@@ -31,7 +31,7 @@ class codedbots(object):
 		if r.status_code==200:
 			return base64.b64decode(r.content)
 		else:
-			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content.decode()))
 			time.sleep(60)
 			exit(1)
 
@@ -40,6 +40,6 @@ class codedbots(object):
 		if r.status_code==200:
 			return json.loads(r.content)
 		else:
-			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content.decode()))
 			time.sleep(60)
 			exit(1)
