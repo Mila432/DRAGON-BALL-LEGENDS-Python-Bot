@@ -19,14 +19,19 @@ class codedbots(object):
 
 	def getecd(self,data,_platformId,_romType):
 		r= self.s.post(self.mainurl+'/ecd',data={'ecd':base64.b64encode(data),'_platformId':_platformId,'_romType':_romType,'license':self.license})
-		return json.loads(r.content)
+		if r.status_code==200:
+			return json.loads(r.content)
+		else:
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
+			time.sleep(60)
+			exit(1)
 
 	def encrypt(self,data):
 		r= self.s.post(self.mainurl+'/encrypt',data={'data':json.dumps(data,separators=(',', ':')),'license':self.license})
 		if r.status_code==200:
 			return base64.b64decode(r.content)
 		else:
-			print('[%s] license key invalid or blocked [%s]'%(r.status_code,self.license))
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
 			time.sleep(60)
 			exit(1)
 
@@ -35,6 +40,6 @@ class codedbots(object):
 		if r.status_code==200:
 			return json.loads(r.content)
 		else:
-			print('[%s] license key invalid or blocked [%s]'%(r.status_code,self.license))
+			print('[%s] license key invalid or blocked [%s]'%(r.status_code,r.content))
 			time.sleep(60)
 			exit(1)
