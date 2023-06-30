@@ -451,13 +451,13 @@ class API(object):
 		with io.open(os.path.join('data','gasha_pack_.json'),encoding='utf8') as f:
 			self.gasha_pack_=json.load(f)
 			self.gasha_pack_={x['gasha_series_id_']:x for x in self.gasha_pack_}
-		_gashaInfoList=self.GetGashaInfoRequest(1)._gashaInfoList
+		_gashaInfoList=self.GetGashaInfoRequest(1)['_gashaInfoList']
 		for x in _gashaInfoList:
-			if x._gashaSeriesId in self.gasha_pack_:
-				if self.gasha_pack_[x._gashaSeriesId]['consume_item_type_']==9:
+			if x['_gashaSeriesId'] in self.gasha_pack_:
+				if self.gasha_pack_[x['_gashaSeriesId']]['consume_item_type_']==9:
 					while(1):
-						_consumeItem=self.ExecuteGashaRequest(_gashaId=x._gashaPackId)._consumeItem
-						if _consumeItem._itemId==0:
+						_consumeItem=self.ExecuteGashaRequest(_gashaId=x['_gashaPackId'])['_consumeItem']
+						if _consumeItem['_itemId']==0:
 							break
 
 	def ExecuteGashaRequest(self,_gashaId):
@@ -666,7 +666,7 @@ class API(object):
 			if page>=5:	break
 			res=self.GetShopItemListRequest(_page=page,_platformCode=2,_romType=2)
 			if res['_pageSize']<=0:	break
-			for x in res._shopItemList:
+			for x in res['_shopItemList']:
 				items.append(x)
 			page+=1
 		return items
@@ -746,14 +746,14 @@ class API(object):
 			if y in self.total_battle_level_:
 				continue
 				self.canloop=True
-				_levelInfoList=self.GetTotalBattleLevelListRequest(_totalBattleId=y)._levelInfoList
+				_levelInfoList=self.GetTotalBattleLevelListRequest(_totalBattleId=y)['_levelInfoList']
 				for q in list(reversed(_levelInfoList)):
-					if q._isCleared:	continue
-					if not q._isReleased:	continue
-					print(q._totalBattleLevelId,q._targetTotalBattleLayerId)
-					self.GetTotalBattleLevelInfoRequest(q._totalBattleLevelId)
-					self.GetTotalBattleLayerInfoRequest(q._totalBattleLevelId,q._targetTotalBattleLayerId)
-					res=self.doquest(q._totalBattleLevelId,_characterId,False,q._targetTotalBattleLayerId)
+					if q['_isCleared']:	continue
+					if not q['_isReleased']:	continue
+					print(q['_totalBattleLevelId'],q['_targetTotalBattleLayerId'])
+					self.GetTotalBattleLevelInfoRequest(q['_totalBattleLevelId'])
+					self.GetTotalBattleLayerInfoRequest(q['_totalBattleLevelId'],q['_targetTotalBattleLayerId'])
+					res=self.doquest(q['_totalBattleLevelId'],_characterId,False,q['_targetTotalBattleLayerId'])
 					exit(1)
 			y=self.story_event_group_[y]
 			for j in y:
@@ -860,7 +860,7 @@ class API(object):
 		self.GetVersionRequest()
 		self.GetStoryTopInfoRequest()
 		self.ExecuteShopItemGashaRequest(_gashaId=4000100,_platformCode=self._platformId,_romType=self._romType)
-		#self.getallmail()
+		self.getallmail()
 
 	def UserSetting(self,_languageId):
 		return Scream.UserSetting(_languageId)

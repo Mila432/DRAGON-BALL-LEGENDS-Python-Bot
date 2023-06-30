@@ -76,6 +76,11 @@ def GetStoryTopInfoRequest(ts):
 	l['CmdId']=4436
 	return l
 
+def ReceivePresentBoxRequest(ts,presentBoxIds):
+	l= locals()
+	l['CmdId']=4355
+	return l
+
 def ExecuteShopItemGashaRequest(ts,_gashaId,_platformCode,_romType):
 	l= locals()
 	l['CmdId']=5397
