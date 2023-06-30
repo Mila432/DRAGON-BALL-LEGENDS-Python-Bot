@@ -28,7 +28,7 @@ class codedbots(object):
 		else:
 			print('[%s] license key invalid or blocked [%s]'%(r.status_code,self.license))
 			time.sleep(60)
-			return None
+			exit(1)
 
 	def decrypt(self,data):
 		r= self.s.post(self.mainurl+'/decrypt',data={'data':base64.b64encode(data).decode(),'license':self.license})
@@ -37,4 +37,4 @@ class codedbots(object):
 		else:
 			print('[%s] license key invalid or blocked [%s]'%(r.status_code,self.license))
 			time.sleep(60)
-			return None
+			exit(1)
