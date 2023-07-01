@@ -720,6 +720,8 @@ class API(object):
 				v0=self.getStory(x)
 				if not v0:	continue
 				story_unlock_param1_=v0['story_unlock_param1_']
+				if story_unlock_param1_!=x:
+					res=self.doquest(story_unlock_param1_,_characterId,False)
 				if v0['story_sorty1_id_']==10:
 					_characterId=self.getLeader(set([v0['story_sorty1_param1_'],v0['story_sorty1_param2_'],v0['story_sorty1_param3_'],]))
 					self.log('new _characterId %s'%_characterId)
@@ -779,6 +781,8 @@ class API(object):
 				if not v0:
 					continue
 				story_unlock_param1_=v0['story_unlock_param1_']
+				if story_unlock_param1_!=x:
+					res=self.doquest(story_unlock_param1_,_characterId,False)
 				if v0['story_sorty1_id_']==10:
 					_characterId=self.getLeader(set([v0['story_sorty1_param1_'],v0['story_sorty1_param2_'],v0['story_sorty1_param3_'],]))
 					self.log('new _characterId %s'%_characterId)
