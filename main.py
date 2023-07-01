@@ -113,10 +113,13 @@ class API(object):
 		if _cmdId!=self.CmdId:
 			return self.makepacket(bt)
 		r=reader
+		if '_masterCdnVersion' in r:
+			self.log('_masterCdnVersion: %s _assetVersion: %s _androidRomVersion: %s _iosRomVersion: %s'%(r['_masterCdnVersion'],r['_assetVersion'],r['_androidRomVersion'],r['_iosRomVersion']))
 		if '_token' in r:
 			self._token=r['_token']
-		if '_userStatus' in r:
+		if '_userStatus' in r and r['_userStatus']['_playerId']:
 			self._userStatus=r['_userStatus']
+			self.log('_playerId: %s _playerName: %s _zlv: %s'%(r['_userStatus']['_playerId'],r['_userStatus']['_playerName'],r['_userStatus']['_zlv']))
 		if '_stoneStatus' in r:
 			self._stoneStatus=r['_stoneStatus']
 		if '_zeny' in r:
