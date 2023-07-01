@@ -121,6 +121,8 @@ class API(object):
 			self._stoneStatus=r['_stoneStatus']
 		if '_zeny' in r:
 			self._zeny=r['_zeny']
+		if '_stoneTotalCount' in r:
+			self.log('CC: %s'%(r['_stoneTotalCount']))
 		if _cmdId == 0:
 			self.ip=r['ip']
 			self.log('new ip: %s port: %s'%(self.ip,r['port']))
@@ -674,6 +676,7 @@ class API(object):
 	def getFinishedQuests(self):
 		page=1
 		self.done=set()
+		self.log('loading finished quests..')
 		while(1):
 			res=self.GetStoryModeStatusRequest(_page=page)
 			if res['_pageSize']<=0:	break
@@ -683,6 +686,7 @@ class API(object):
 				if (int(x['_currentChallengeDetailIdList'])==1111111) or (v0['battle_type_']==0 and x['_clearCountTotal']>=1):
 					self.done.add(x['_storyMasterId'])
 			page+=1
+		self.log('found %s finished quests..'%(len(self.done)))
 		return self.done
 
 	def getLeader(self,forbidden=set(),needParty=False):
@@ -717,7 +721,7 @@ class API(object):
 					self.log('new _characterId %s'%_characterId)
 				if canRefill:
 					self.RecoverStaminaRequest(_isUseStone=0,_useRecoverItem=self.UserItemWT(_itemType=31,_itemId=0,_itemNum=1),_executionCount=0)
-				self.log('doing %s'%(self.questname(y)))
+				self.log('trying %s'%(self.questname(y)))
 				res=self.doquest(x,_characterId,False)
 
 	def doallevents(self,canRefill=True,isHard=False):
@@ -784,7 +788,7 @@ class API(object):
 						continue
 				if canRefill:
 					self.RecoverStaminaRequest(_isUseStone=0,_useRecoverItem=self.UserItemWT(_itemType=31,_itemId=0,_itemNum=1),_executionCount=0)
-				self.log('doing %s'%(self.questname(y)))
+				self.log('trying %s'%(self.questname(y)))
 				if x in self.tower_character_:
 					for _ in range(100):
 						if not self.doquest(x,_characterId,False):
@@ -821,7 +825,7 @@ class API(object):
 			else:
 				return None
 		self.log('_sessionKey: %s'%(_sessionKey))
-		time.sleep(5)
+		time.sleep(6)
 		if _totalBattleLayerId is not None:
 			time.sleep(4)
 			res=self.GetResultTotalBattleRequest(_sessionInfo=self.SessionInfo(_sessionKey=_sessionKey),_battleResultKbn=1,_challenge1Cleared=1,_challenge2Cleared=1,_challenge3Cleared=1,_challenge4Cleared=1,_challenge5Cleared=1,_challenge6Cleared=1,_challenge7Cleared=1,_enemyPartyInfo=self.TotalBattlePartyInfo(_enemyCharacter1Health=0,_enemyCharacter2Health=-1,_enemyCharacter3Health=-1,_enemyCharacter4Health=-1,_enemyCharacter5Health=-1,_enemyCharacter6Health=-1),_missionUploadPageCnt=-1)
