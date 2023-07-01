@@ -135,7 +135,8 @@ class API(object):
 	def makepacket(self,bt):
 		if self.CmdId is not None:
 			if self.CmdId!=bt['CmdId']:
-				self.ts+=1
+				pass
+				#self.ts+=1
 		self.CmdId=bt['CmdId']
 		_bt=self.codedbots.encrypt(bt)
 		self.s.send(_bt)
@@ -156,7 +157,7 @@ class API(object):
 		return self.makepacket(bt)
 
 	def HelloRequest(self,_agentToken):
-		self.ts=1
+		#self.ts=1
 		bt=Scream.HelloRequest(self.ts,_agentToken)
 		return self.makepacket(bt)
 
