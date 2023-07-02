@@ -39,6 +39,7 @@ class API(object):
 		self.codedbots=codedbots.codedbots()
 
 	def prepare(self):
+		ts=time.time()
 		with io.open(os.path.join('data','story_master_.json'),encoding='utf8') as f:
 			self.story_master_=json.load(f)
 			self.story_master_={x['story_master_id_']:x for x in self.story_master_}
@@ -52,10 +53,18 @@ class API(object):
 			self.names={x['id']:x['text'] for x in json.load(f)['info']}
 		with io.open(os.path.join('data','story_main_.json'),encoding='utf8') as f:
 			self.story_main_=json.load(f)
+			tmp=[]
+			for x in self.story_main_:
+				end_date_=x['end_date_']
+				if '1900' not in end_date_:
+					d1=end_date_.split('  ')
+					end_date_='/'.join([y.zfill(2) for y in d1[0].split('/')])+'  '+':'.join([y.zfill(2) for y in d1[1].split(':')])
+					if datetime.datetime.strptime(end_date_, "%Y/%m/%d  %H:%M:%S").timestamp()<ts:	continue
+				tmp.append(x)
+			self.story_main_=tmp
 			self.story_main_=sorted(self.story_main_, key = lambda x: (x['story_part_id_'], x['story_chapter_id_'], x['story_episode_id_']))
 		with io.open(os.path.join('data','story_event_group_.json'),encoding='utf8') as f:
 			self.story_event_group_=json.load(f)
-			ts=time.time()
 			tmp=[]
 			for x in self.story_event_group_:
 				end_date_=x['end_date_']
@@ -720,7 +729,7 @@ class API(object):
 				v0=self.getStory(x)
 				if not v0:	continue
 				story_unlock_param1_=v0['story_unlock_param1_']
-				if story_unlock_param1_!=x:
+				if story_unlock_param1_!=x and story_unlock_param1_ not in self.done:
 					res=self.doquest(story_unlock_param1_,_characterId,False)
 				if v0['story_sorty1_id_']==10:
 					_characterId=self.getLeader(set([v0['story_sorty1_param1_'],v0['story_sorty1_param2_'],v0['story_sorty1_param3_'],]))
@@ -781,7 +790,7 @@ class API(object):
 				if not v0:
 					continue
 				story_unlock_param1_=v0['story_unlock_param1_']
-				if story_unlock_param1_!=x:
+				if story_unlock_param1_!=x and story_unlock_param1_ not in self.done:
 					res=self.doquest(story_unlock_param1_,_characterId,False)
 				if v0['story_sorty1_id_']==10:
 					_characterId=self.getLeader(set([v0['story_sorty1_param1_'],v0['story_sorty1_param2_'],v0['story_sorty1_param3_'],]))
