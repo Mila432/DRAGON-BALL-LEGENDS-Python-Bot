@@ -142,16 +142,19 @@ class API(object):
 		return r
 
 	def makepacket(self,bt):
-		if self.CmdId is not None:
-			if self.CmdId!=bt['CmdId']:
-				pass
-				#self.ts+=1
-		self.CmdId=bt['CmdId']
-		_bt=self.codedbots.encrypt(bt)
+		if type(bt)==bytes:
+			_bt=bt
+		else:
+			if self.CmdId is not None:
+				if self.CmdId!=bt['CmdId']:
+					pass
+					#self.ts+=1
+			self.CmdId=bt['CmdId']
+			_bt=self.codedbots.encrypt(bt)
 		self.s.send(_bt)
 		data = self.s.recv(0xFFFF)
 		res=self.codedbots.decrypt(data)
-		return self.decode(res,bt)
+		return self.decode(res,_bt)
 
 	def GetMissionRewardRequest(self,_missionIdList):
 		bt=Scream.GetMissionRewardRequest(self.ts,_missionIdList)
