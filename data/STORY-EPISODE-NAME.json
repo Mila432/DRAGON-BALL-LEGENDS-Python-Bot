@@ -795,6 +795,10 @@
             "text": "God Ki"
         },
         {
+            "id": 800245,
+            "text": "Fusion Warrior & RED"
+        },
+        {
             "id": 1001000,
             "text": "The Cell Games"
         },
@@ -1421,6 +1425,10 @@
         {
             "id": 8004005,
             "text": "Super Saiyan God Vegeta (DBL09-09S)"
+        },
+        {
+            "id": 8004006,
+            "text": "Goku Black (DBL06-13S)"
         },
         {
             "id": 10001701,
@@ -4265,6 +4273,14 @@
         {
             "id": 100903102,
             "text": "Z Power \"Regeneration\""
+        },
+        {
+            "id": 100903201,
+            "text": "Z Power \"Fusion Warrior\""
+        },
+        {
+            "id": 100903202,
+            "text": "Z Power \"Future\""
         },
         {
             "id": 100910201,
